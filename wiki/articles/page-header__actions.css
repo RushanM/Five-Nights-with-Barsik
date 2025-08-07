@@ -1,0 +1,156 @@
+.page-header__actions {
+  padding-top: 0px;
+  align-items: flex-start;
+  display: flex;
+  margin-left: 9px;
+}
+
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+time,
+tt,
+u,
+ul,
+var,
+video {
+  border: 0;
+  font: normal normal normal 100% inherit;
+  margin: 0;
+  margin-left: 0px;
+  padding: 0;
+  padding-top: 0px;
+  vertical-align: initial;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+.wds-button.wds-is-text,
+.wds-button.wds-is-text:disabled {
+  background: none;
+  border: 0;
+  color: var(--wds-text-button-label-color);
+}
+
+a.wds-button,
+button.wds-button {
+  cursor: pointer;
+}
+
+.wds-button,
+.wds-button:disabled {
+  background: none;
+  border-color: currentcolor;
+  color: var(--wds-secondary-button-label-color);
+}
+
+.page-header__action-button {
+  --wds-text-button-label-color: var(--theme-link-color);
+  --wds-text-button-label-color--hover: var(--theme-link-color);
+  border-radius: 18px;
+  box-sizing: border-box;
+  height: 36px;
+  margin: 0 3px 0 2px;
+  position: relative;
+  width: 36px;
+}
+
+#ca-edit {
+  font-family: "Montserrat", sans-serif;
+}
+
+.page-header__action-button.has-label {
+  height: auto;
+  padding-left: 12px;
+  padding-right: 12px;
+  width: auto;
+}
+
+.wds-dropdown {
+  --wds-dropdown-background-color: var(--theme-page-background-color--secondary);
+  --wds-dropdown-border-color: var(--theme-border-color);
+  --wds-dropdown-text-color: var(--theme-page-text-color);
+  --wds-dropdown-linked-item-color: var(--theme-link-color);
+  --wds-dropdown-linked-item-background-color: rgba(var(--theme-link-color--rgb), 0.1);
+  --wds-dropdown-scrollable-shadow-color: rgba(var(--theme-page-text-color--rgb), 0.1);
+  display: inline-block;
+  position: relative;
+}
+
+.page-header {
+  line-height: normal !important;
+}
+
+.wds-button-group {
+  align-items: stretch;
+  display: inline-flex;
+  justify-content: flex-start;
+}

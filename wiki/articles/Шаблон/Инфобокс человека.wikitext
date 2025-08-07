@@ -1,0 +1,51 @@
+<includeonly>
+<infobox>
+  <title source="Имя">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="Изображение">
+    <caption source="Подпись"/>
+  </image>
+  <data source="Другие имена">
+  <label>Другие имена</label>
+  </data>
+  <data source="Игры">
+  <label>Игры</label>
+  </data>
+  <data source="Профессия">
+  <label>Профессия</label>
+  </data>
+  <data source="Дата рождения">
+  <label>Дата рождения</label>
+  </data>
+  <data source="Место рождения">
+  <label>Место рождения</label>
+  </data>
+  <data source="Дата смерти">
+  <label>Дата смерти</label>
+  </data>
+  <data source="Работал(а) над">
+  <label>Работал(а) над</label>
+  </data>
+  <data source="Роль(-и)">
+  <label>Роль(-и)</label>
+  </data>
+  <data source="Озвучивал(а)">
+  <label>Озвучивал(а)</label>
+  </data>
+  <data source="Ссылки">
+  <label>Ссылки</label>
+  </data>
+  <data source="Сайт">
+  <label>Сайт</label>
+  </data>
+  <data source="Адрес электронной почты">
+  <label>Адрес электронной почты</label>
+  </data>
+</infobox>
+</includeonly>
+<noinclude>
+{{/документация}}
+
+[[Категория:Инфобоксы]]
+</noinclude>

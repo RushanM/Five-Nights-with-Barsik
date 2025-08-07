@@ -1,0 +1,341 @@
+{{Карточка человека
+|Имя                 = P4shtet
+|Изображение         = P4shtet.png
+|Профессия           = певец, разработчик
+|Пол                 = мужской
+|Другие имена        = * Fazcat Games,
+* FazcatGames,
+* Media Cat Games,
+* MediaCatGames,
+* Pavel123,
+* p4shtet,
+* p4shtettt,
+* PASAYOUFIADI91ei941-932-50442,
+* Pashtet,
+* Pavel,
+* Кира Максимов,
+* Павел Шахматов,
+* Павел Шмидт,
+* Павел,
+* Паштет,
+* Пувел.
+|Никнейм в Майнкрафте = Pavel123
+|Роль                 = автор серии Пяти ночей с Барсиком
+}}'''P4shtet''' (произносится '''Паштет''', по реальному имени '''Павел Шахматов''') — автор серии [[Пять ночей с Барсиком|Пяти ночей с Барсиком]], фотографий, использовавшихся в ней, и хозяин [[Барсик]]а и [[Матильда|Матильды]]. Основатель [[Smart Games Team|«Smart Games Team»]].
+
+== Видеоигры ==
+Видеоигры Павла как разработчика видеоигр:
+
+=== Вышедшие ===
+* [[Project HE]];
+* [[Веселье с Игрушечным Джейком]];
+* [[Вторая тизер-игра Пяти ночей с Барсиком 3]];
+* [[Давай сыграем]];
+* [[Пять ночей с Барсиком — 2]];
+* [[Пять ночей с Барсиком — 3]];
+* [[Пять ночей с Барсиком]];
+* [[Тайны ПНСБ]];
+* Having Bad Time with Flowey;
+* One Night at Foxy’s;
+* Вожак.ЭКСЕ;
+* Китти ловит бабочек.
+
+=== Отменённые ===
+* [[Galaxy Cat Warrior]];
+* [[Возвращение к Коте]];
+* [[Коты с ничего]];
+* [[Одна ночь с Котей: сестринская локация]];
+* [[Перезапуск Пяти ночей с Барсиком от P4shtet|Перезапуск Пяти ночей с Барсиком]];
+* [[Пять ночей с Барсиком — 4]];
+* Memento Vitae.
+<br>
+
+== История ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2014 ===
+<div class="mw-collapsible-content">
+Павел зарегистрировался [[ВКонтакте]] 25 октября в 7:31.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2015 ===
+<div class="mw-collapsible-content">
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Апрель ====
+<div class="mw-collapsible-content">
+Весной 2015 года вдохновлённый популярной серией игр-ужастиков [[Серия «Five Nights at Freddy’s»|«Five Nights at Freddy’s»]], Павел решил создать собственную такую игру о своём котёнке по кличке Барсик под названием «Five Nights At Barsik’s».
+
+8 апреля в 11:58 P4shtet опубликовал изображение вырезанного Барсика на своей стене ВКонтакте.
+
+<gallery>
+8 апреля в 11 58.jpg
+</gallery>
+
+9 апреля в 11:09 Павел с энтузиазмом объявил о начале разработки:
+
+<gallery>
+9 апр 2015 18 05.jpg|«Игра будет! Меню в разработке Clickteam fusion 2.5. есть Ждем! :3»
+</gallery>
+Через несколько часов после анонса в 18:05 Павел создал сообщество [[ВКонтакте]] «Five Nights At Barsik’s|Пять Ночей С Барсиком». В 18:09 Павел опубликовал запись на своей стене с текстом «Ну поможете с игрой? с:» и прикреплённой ссылкой на сообщество. После этого Павел сразу приступил к поиску [[Zodli|актёра озвучивания]] для [[Дженнди|парня из телефона]]. В 18:13 свою кандидатуру на озвучку предложил [[Кирилл Шкляревский]] и Павел принял его в качестве тестового актёра озвучивания.
+
+К 19 апреля в 9:04 Павел уже закончил делать вращение камеры в игре. В 17:14 он объявил, что у [[Кирилл Шкляревский|Кирилла]] сломался микрофон и ему требуется новый человек на озвучку.
+
+21 апреля в 16:13 Павел принял [[Zodli]] на роль нового актёра озвучивания. В 16:14 объявил о том, что актёр озвучивания найден.
+
+24 апреля в 9:23 Павел обьявил о том, что в его профиле в [[Икс]]е будут публиковаться новости по игре. В 9:34 спросил у подписчиков соообщества игры ВКонтакте, как распространять игру: через [[Геймджолт]] или [[Яндекс-Диск]]. Выиграл вариант [[Геймджолт]]а.
+* 26 апреля в 12:34 Павел создал страницу в [[Геймджолт]]е, которая на данный момент заброшена.
+* 27 апреля в 17:32 Павел объявил, что так как у него лишь демоверсия Clickteam Fusion 2.5, а не полная версия, он не может продолжать разработку игры, и попросил подписчиков отправить ему полную версию.
+* 28 апреля тестировщик игры [[MaksFred]] создал учётную запись в [[Икс]]е и в 10:57 Павел поделился с подписчиками [https://x.com/MaksSchmidt228 ссылкой] на неё, чтобы поддержать своего тестировщика.
+* 28 апреля в 11:27 Павел опубликовал первый тизер [[Пять ночей с Барсиком|ПНСБ]].
+<gallery>
+youcantbeathe 28 апр 2015 11 27.png|''«Пока-что играет разрабатывается  я кину вам тизер»''
+</gallery>
+* 29 апреля в 10:59 Павел объявил, что получил полную версию Clickteam Fusion 2.5 от [[MaksFred]].
+<gallery>
+3 апр 2015 10 59.jpg|''«Наконец-то [[Clickteam Fusion 2.5 Developer|Clickteam fusion 2.5. Full]] получен от [[MaksFred|Максима Шмидта]]! Его имя поподет в меню игры Всем спасибо за внимание»''
+</gallery>
+* 29 апреля в 17:06 Павел опубликовал второй тизер игры.
+<gallery>
+themwillbecankill 29 апр 2015 17 06.png|''«Новый тизер FNAB»''
+</gallery>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Май ====
+<div class="mw-collapsible-content">
+* 10 мая в 9:56 Павел объявил, что улучшил главное меню игры и добавил в него [[wikipedia:ru:Пасхальное яйцо (виртуальное)|пасхальные яйца]].
+* 18 мая в 12:07 Павел поделился с подписчиками снимком игрового процесса.
+* 24 мая Павел создал страницу ПНСБ в [[Геймджолт]]е (https://gamejolt.com/games/five-nights-at-barsik-s/62886) со следующим описанием:
+{{Структурированная цитата
+|Текст     = Welcome to your good old house! you already lived in it for 5 years after 1 year you notice in the house 2 animals and 2 toys You notice that they all want to kill you and you go to a psychologist and His team have put surveillance cameras and gave the mask Freddy fazbear! And they send you on a week to survive until 6 A.m..<br>Windows 7/XP/8/8.1<br>Phone Guy:Zodli<br>Creactor:Pavel Shamatov<br>Testers:Masikm Pidenko,Gleb Merlinski<br>#FNAF #FNAF_Parodies #FNAB<br>#strategy
+|Сказавший = Павел
+|Источник  = описание страницы [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+* В тот же день он написал новость в журнале разработчика страницы о выпуске альфа-версии:
+{{Структурированная цитата
+|Текст     = Alpha TEST! -LINK HERE!-<br>Alpha testcame outThat there is: -One Night-One Enemy-KillEaster eggs. In one wordfun<br>Sorry not to defend ourselves,to Defend ourselves we will be in the Beta version<br>LINK-https://yadi.sk/d/IsmfXEL8gq3bJ
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика страницы [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Июнь ====
+<div class="mw-collapsible-content">
+* 3 июня Павел создал второе сообщество игры [[ВКонтакте]] под названием «Five Nights At Barsik'/Пять ночей с Барсиком».
+* 4 июня опубликовал тизер-трейлер игры (сейчас удалён).
+* 9 июня Павел написал новость в журнале разработчика страницы [[Пять ночей с Барсиком|ПНСБ]] в Геймджолте:
+{{Структурированная цитата
+|Текст     = News.. NEWS!<br>OkayguysBeta0.1is created.The beta versionis ready on69% Expected ;)<br>Окей ребят Бета 0.1 создается.Бета версия готова на 69% Ждем ;)<br>-Pavel.Павел
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика страницы [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+* 15 июня завёл новую учётную запись в [[Геймджолт]]е под никнеймом FazcatGames: https://gamejolt.com/@FazcatGames.
+* 19 июня создал страницу саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е (https://gamejolt.com/games/five-nights-at-barsik-s-saga/74608) со следующим описанием:
+{{Структурированная цитата
+|Текст     = Here's the full story is told...<br>This a real SAGA...<br>Windows 7/XP/8/8.1<br>Phone Guy:Zodli<br>Creactor:Pavel Shamatov<br>Testers:Masikm Pidenko,Gleb Merlinski<br>Special Thanks to:Smart games team,RoboboGames and MaksimusGames<br>#FNAF #FNAF_Parodies #FNAB<br>#other
+|Сказавший = Павел
+|Источник  = описание страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+* На странице со временем были размещены изображения и видео:
+** снимок главного меню ПНСБ с подписью «New Title! ^V^»;
+** снимок игрового процесса ПНСБ с видом на третью камеру с подписью «Camera 03»;
+** тизер-трейлер ПНСБ с подписью «Teaser» и описанием «Okay little teaser: p»;
+** снимок игрового процесса ПНСБ2 с видом на офис с подписью «Office-FNAB2»;
+** снимок главного меню ПНСБ2 с подписью «FNAB 2 MENU»;
+** трейлер ПНСБ2 с подписью «Five Nights At Barsik’s 2 Trailer» и описанием «After 2 years of terrible things that were happening in the house.. the New Company was found in the wreckage of the house,Suit and so they open Funny Pizza Cat Hotel.. this hotel would be people but it’s weird to see yourself.. the Hotel has One animatronic».
+* В 14:35 Павел опубликовал новость в журнале разработчика страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е:
+{{Структурированная цитата
+|Текст     = I am back..<br>Helloguys,This is a newpageof my game isthe factthatyou restart the computer, Iforgotthe passwordand the passwordwason the desktopso Icreated a newprofile foryour game!Thank you allfor your attention!AndYes there isa new website!<br>Link-http://pavelwehaveplacefo.wix.com/fazcatgames
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+* 21 июня в 6:45 Павел опубликовал новость в журнале разработчика страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е:
+{{Структурированная цитата
+|Текст     = Alpha Test HERE!<br>Alpha testcame outThat there is: -One Night-One Enemy-KillEaster eggs. In one wordfun<br>Sorry not to defend ourselves,to Defend ourselves we will be in the Beta version
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+* 24 июня в 13:38 Павел опубликовал новость в журнале разработчика страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е:
+{{Структурированная цитата
+|Текст     = The beta release is very nigh<br>HiguysI have some good news :3 The first enemybecause Ican’t call hima animatronic In1night! In The BetaOnly2 Nights! WAITING WAITING WAITING :3<br>-Pavel
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}{{Структурированная цитата
+|Текст     = TROLL GAME<br>DOWNLOAD-https://yadi.sk/d/VpUKQjbVhTGwL P.S:CLICK BUTTON:”PASSWORD”<br>THIS FAKE VERSION SORRY :D JUST I AM MAKE TROLL GAME!
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Июль ====
+<div class="mw-collapsible-content">
+11 июля в 8:56 Павел опубликовал новость в журнале разработчика страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е:
+{{Структурированная цитата
+|Текст     = 34444444<br>3100316571210294856027
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+27 июля Павел вместе с [[Андриана Мантиспа|Андрианой Мантиспа]] основали команду разработчиков видеоигр [[Smart Games Team|«Smart Games Team»]], которая стала новым центром для новостей по игре и её обсуждения. Немного позже было создано сообщество [[ВКонтакте]] команды.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Август ====
+<div class="mw-collapsible-content">
+И наконец, после месяцев упорной работы, 7 августа 2015 года состоялся официальный релиз полной версии Пяти ночей с Барсиком. Об этом в 10:53 Павел написал в новости в журнале разработчика страницы саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт]]е:
+{{Структурированная цитата
+|Текст     = FULL VERISON HERE!!<br>You can this verison DOWNLOAD!!
+|Сказавший = Павел
+|Источник  = новость в журнале разработчика саги [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+}}
+10 августа Павел написал об этом в сообществе ВКонтакте.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+==== Ноябрь ====
+<div class="mw-collapsible-content">
+Осенью того же года Павел уже работал над [[Пять ночей с Барсиком — 3|«Пятью ночами с Барсиком 3»]].
+</div></div>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2016 ===
+<div class="mw-collapsible-content">
+В 2016 году Павел активно работал над [[Пять ночей с Барсиком — 4|четвёртой частью серии]], а также над новым проектом [[Galaxy Cat Warrior|«Galaxy Cat Warrior»]]. Он передал права на серию Пяти ночей с Барсиком [[Дефлекта|Дефлекте]], который приступил к разработке [[Обновление 2.0 Пяти ночей с Барсиком|версии 2.0]].
+
+==== Апрель ====
+17 апреля [[Андриана Мантиспа]] передал свою команду «MAD Developing» под руководство Павла, сам её покинув.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2017 ===
+<div class="mw-collapsible-content">
+
+==== Июль ====
+9 июля Павел основал новую команду «The Cat Brothers». Было создано сообщество [[ВКонтакте]] https://vk.com/thecatbrothers.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2018 ===
+<div class="mw-collapsible-content">
+
+==== Декабрь ====
+К концу 2018 года 23 декабря Павел решил закрыть «The Cat Brothers» и основать новую команду — «Chocolate Tea». Было создано сообщество [[ВКонтакте]] https://vk.com/chocolateteateam и учётная запись в [[Геймджолт]]е: https://gamejolt.com/@Chocolate_Tea. Павел начал разработку новой игры — «Memento Vitae».
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== 2021 ===
+<div class="mw-collapsible-content">
+
+==== Август ====
+27 августа Павел создал сообщество [[ВКонтакте]] для «Memento Vitae» — https://vk.com/mementovitaee.
+
+==== Октябрь ====
+* 16 октября опубликовал пару концептов игры.
+* 17 октября опубликовал видео с анимацией главного меню игры.
+* 18 октября опубликовал концепт одного из персонажей игры.
+* 19 октября показал обновлённый логотип в главном меню.
+* 24 октября прорекламировал сообщество художника игры.
+* 25 октября опубликовал концепт персонажа-воробья Крапива Пугнато. В тот же день опубликовал концепт главного героя игры.
+</div></div>
+<br>
+
+== Галерея ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== [[Ютюб]] ===
+<div class="mw-collapsible-content">
+<gallery>
+Аватар_четвёртого_канала_Павла.jpg|Аватар четвёртого ютюб-канала Павла
+Шапка_третьего_канала_Павла.jpg|Шапка третьего ютюб-канала Павла
+Аватар_третьего_канала_Павла.jpg|Аватар третьего ютюб-канала Павла
+Шапка_второго_канала_Павла.jpg|Шапка второго ютюб-канала Павла
+Аватар_второго_канала_Павла.jpg|Аватар второго ютюб-канала Павла
+Аватар канала Smart Games Team Official.jpg|Персонаж Павла, [[Фазкат]], на аватаре ютюб-канала «Smart Games Team Official» (слева)
+Шапка канала Smart Games Team Official.jpg|Персонаж Павла, [[Фазкат]], на шапке ютюб-канала «Smart Games Team Official» (справа)
+Шапка_первого_канала_Павла.jpg|Шапка первого ютюб-канала Павла
+Аватар_первого_канала_Павла.jpg|Аватар первого ютюб-канала Павла
+</gallery>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
+
+=== [[ВКонтакте]] ===
+<div class="mw-collapsible-content">
+<gallery>
+Аватар SGT.jpg|Персонаж Павла, [[Фазкат]], на аватаре [[Smart Games Team]] от [[Андриана Мантиспа|Андрианы Мантиспа]] (справа)
+Аватар Smart Games Team от Хлебеса 1 января 2016.jpg|Персонаж Павла, [[Фазкат]], на аватаре [[Smart Games Team]] от Хлебеса (слева)
+SGT 2015.jpg|Персонаж Павла, [[Фазкат]], на аватаре [[Smart Games Team]] от Хлебеса (справа)
+3 апр 2015 10 59.jpg|Аватар первой страницы Павла [[ВКонтакте]] от 3 апреля 2015
+6 мар 2015.jpg|Аватар первой страницы Павла [[ВКонтакте]] от 6 марта 2015
+</gallery>
+</div></div>
+<br>
+
+== Факты ==
+* у P4shtet было три кошки: [[Матильда]], [[Барсик]] и [[Вася]].
+<br>
+
+== Ссылки ==
+* [https://vk.com/pavelfoundyoupavelcollwtf первая страница ВКонтакте],
+* [https://vk.com/p4shtetdada вторая страница ВКонтакте],
+* [https://vk.com/p4shtetoof сообщество ВКонтакте],
+* [https://gamejolt.com/@PASAYOUFIADI91ei941-932-50442 первый профиль в Геймджолте],
+* [https://gamejolt.com/@FazcatGames второй профиль в Геймджолте],
+* [https://gamejolt.com/@Pashtet третий профиль в Геймджолте],
+* [https://gamejolt.com/@p4shtet__ четвёртый профиль в Геймджолте].
+* [https://x.com/pavel_122323 профиль в Иксе],
+* [https://www.youtube.com/@%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2-%D0%BB8%D0%BE первый канал на Ютюбе],
+* [https://www.youtube.com/@fazcatgames1542 второй канал на Ютюбе],
+* [https://www.youtube.com/channel/UCNX8Ih0OYZuqNx-8zZ-Uaxw третий канал на Ютюбе],
+* [https://www.youtube.com/@p4shtettt четвёртый канал на Ютюбе].
+
+[[en:P4shtet]]
+
+[[Категория:Other Games Production]]
+[[Категория:Smart Games Team]]
+[[Категория:Авторы]]
+[[Категория:Барсик]]
+[[Категория:Бывшие участники «Other Games Production»]]
+[[Категория:Бывшие члены «Other Games Production»]]
+[[Категория:Вася]]
+[[Категория:Люди мужского пола]]
+[[Категория:Люди]]
+[[Категория:Мужчины]]
+[[Категория:Основатели «Smart Games Team»]]
+[[Категория:Основатели]]
+[[Категория:Певцы]]
+[[Категория:Перезапуск Пяти ночей с Барсиком от P4shtet]]
+[[Категория:Пять ночей с Барсиком — 2]]
+[[Категория:Пять ночей с Барсиком — 3]]
+[[Категория:Пять ночей с Барсиком — 4]]
+[[Категория:Видеоигра «Пять ночей с Барсиком»]]
+[[Категория:Разработчики «Other Games Production»]]
+[[Категория:Разработчики «Smart Games Team»]]
+[[Категория:Разработчики Пяти ночей с Барсиком 2]]
+[[Категория:Разработчики «Пяти ночей с Барсиком 3»]]
+[[Категория:Разработчики «Пяти ночей с Барсиком 4»]]
+[[Категория:Разработчики Пяти ночей с Барсиком]]
+[[Категория:Разработчики «Other Games Production»]]
+[[Категория:Разработчики серии Пяти ночей с Барсиком]]
+[[Категория:Разработчики]]
+[[Категория:Реальная жизнь]]
+[[Категория:Реальные индивидуумы]]
+[[Категория:Реальные люди]]
+[[Категория:Серия Пяти ночей с Барсиком]]
+[[Категория:Создатели «Smart Games Team»]]
+[[Категория:Создатели Одной ночи с Котей]]
+[[Категория:Создатели]]
+[[Категория:Тестировщики Пяти ночей с Барсиком 2]]
+[[Категория:Тестировщики «Пяти ночей с Барсиком 3»]]
+[[Категория:Тестировщики «Пяти ночей с Барсиком 4»]]
+[[Категория:Тестировщики Пяти ночей с Барсиком]]
+[[Категория:Участники «Other Games Production»]]
+[[Категория:Участники «Smart Games Team»]]
+[[Категория:Участники Other Games Production»]]
+[[Категория:Художники]]
+[[Категория:Члены «Other Games Production»]]
+[[Категория:Члены «Smart Games Team»]]
+[[Категория:Члены «Other Games Production»]]

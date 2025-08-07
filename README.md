@@ -1,37 +1,34 @@
-# Пять ночей с Барсиком
+This document is available in the following languages: [Russian (ru-ru)](/README_ru-ru.md), [Ukrainian (uk-ua)](/README_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/README_pt-br.md), [Mexican Spanish (es-mx)](/README_es-mx.md).
 
-Этот репозиторий содержит ассеты «Пять ночей с Барсиком» для свободного использования на вики, значках, в фан-играх и прочих местах.
+# Five Nights with Barsik
 
-Пожалуйста, если вас не затруднит, при использовании материалов, укажите ссылку, откуда вы их взяли (ссылку на этот репозиторий).
+This repository contains assets from the "Five Nights with Barsik" video game for free use in wikis, badges, fan games, and other projects.
 
----
-
-## Описание игры
-
-Вы — Антонио. Однажды ночью в своём доме вы заметили неизвестных уличных кошек и роботизированных игрушек. После неудачной попытки их выдворить, вы обратились за помощью в ПсиКо — компанию, основанную психологами, но изучающими паранормальные явления. Теперь все — вы, кошки, игрушки — являетесь частью важного эксперимента, курируемого Дженнди, одним из сотрудников ПсиКо, и должны прожить пять адских ночей с этими кровожадными захватчиками.
+If you don't mind, please include a link to the source (this repository) when using these materials.
 
 ---
 
-## Материалы
+## Game Description
 
-🎴 **Игровая реальность**
-
-* [🏠 Комната игрока](/game_reality/the_room/)
-* [🐈 Кошки](/cats/)
-* [📷 Кадры камер](/game_reality/cameras/)
-
-🗂️ **Остальное**
-
-* [🌆 Фоны](/bgs/)
-* [🏷️ Логотипы](/brand/)
-* [📃 Списки изменений](/changelogs/)
+You play as Antonio. One night, you notice unknown stray cats and robotic toys in your house. After failing to remove them, you seek help from PsyCo—a company founded by psychologists who study paranormal phenomena. Now everyone—you, the cats, and the toys—are part of an important experiment supervised by Jenndy, a PsyCo employee, and you must survive five hellish nights with these bloodthirsty invaders.
 
 ---
 
-## Авторы
+* [Wiki 📚](/wiki/articles/)
+* [Localizations 🌐](/langs/)
+* [Changelogs 📋](/changelogs/)
+* [Sprites 👾](/sprites/)
 
-* Дефлекта: владелец игры, разработчик и сценарист с версии 2.0
-* P4shtet: выдумщик и разработчик версий до 2.0, именно его фото используются в игре
-* GKProduction: актёр русской озвучки
-* Sallo666: тестировщик
-* Zodli: актёр английской озвучки
+---
+
+## Authors
+
+* **Rushan "Deflecta" Mukhutdinov**: developer and writer from version 2.0
+* **Pavel "P4shtet" Shakhmatov**: creator, photographer, artist, developer until version 2.0
+* **Gleb "GKProduction" Kapustin**: Russian voice actor for Genndy, also helped with development, assets, and motivation
+* **Matvey "Barsik" Lebedev**: motivator
+* **Sallo666**: tester
+* **Yuri "Zodli" Grachev**: English voice actor
+* **Maxim "MaksFred" Pidenko**: tester
+* **Other Games Production**: support
+* **Smart Games Team**: support
