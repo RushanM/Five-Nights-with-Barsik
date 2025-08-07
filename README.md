@@ -14,7 +14,7 @@ You play as Antonio. One night, you notice unknown stray cats and robotic toys i
 
 ---
 
-* [Wiki 📚](/wiki/articles/)
+* [Wiki 📚](/wiki/)
 * [Localizations 🌐](/langs/)
 * [Changelogs 📋](/changelogs/)
 * [Sprites 👾](/sprites/)
