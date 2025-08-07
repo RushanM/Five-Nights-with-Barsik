@@ -10,7 +10,7 @@ If you don't mind, please include a link to the source (this repository) when us
 
 ## Game Description
 
-You play as Antonio. One night, you notice unknown stray cats and robotic toys in your house. After failing to remove them, you seek help from PsyCo—a company founded by psychologists who study paranormal phenomena. Now everyone—you, the cats, and the toys—are part of an important experiment supervised by Jenndy, a PsyCo employee, and you must survive five hellish nights with these bloodthirsty invaders.
+You are Antonio. One night, you notice unknown stray cats and robotic toys in your house. After failing to remove them, you seek help from PsyCo—a company founded by psychologists who study paranormal phenomena. Now everyone—you, the cats, and the toys—are part of an important experiment supervised by Genndy, a PsyCo employee. You must survive five hellish nights with these bloodthirsty intruders.
 
 ---
 
