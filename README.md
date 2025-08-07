@@ -28,7 +28,7 @@ You play as Antonio. One night, you notice unknown stray cats and robotic toys i
 * **Gleb "GKProduction" Kapustin**: Russian voice actor for Genndy, also helped with development, assets, and motivation
 * **Matvey "Barsik" Lebedev**: motivator
 * **Sallo666**: tester
-* **Yuri "Zodli" Grachev**: English voice actor
+* **Yuri "Zodli" Grachyov**: English voice actor
 * **Maxim "MaksFred" Pidenko**: tester
 * **Other Games Production**: support
 * **Smart Games Team**: support
