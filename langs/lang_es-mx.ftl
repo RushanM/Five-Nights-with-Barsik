@@ -68,4 +68,4 @@ begin-game = Iniciar Juego
 codes = Códigos
 settings = Configuración
 about = Acerca de
-exit = Salir
+exit = Salir del Juego

@@ -65,4 +65,4 @@ begin-game = Start Game
 codes = Codes
 settings = Settings
 about = About
-exit = Exit
+exit = Exit Game

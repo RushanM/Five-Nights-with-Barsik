@@ -69,4 +69,4 @@ begin-game = Почати гру
 codes = Коди
 settings = Налаштування
 about = Про гру
-exit = Вихід
+exit = Вийти з гри
