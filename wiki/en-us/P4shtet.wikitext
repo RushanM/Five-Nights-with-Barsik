@@ -1,0 +1,315 @@
+{{Person infobox
+|Name          = P4shtet
+|Image         = P4shtet.png
+|Occupation    = Game developer, singer
+|Gender        = Male
+|Other names   = * Fazcat Games;
+* FazcatGames;
+* Kira Maximov;
+* Media Cat Games;
+* MediaCatGames;
+* p4shtet;
+* p4shtettt;
+* PASAYOUFIADI91ei941-932-50442;
+* Pashtet;
+* Pavel Schmidt;
+* Pavel Shakhmatov;
+* Pavel;
+* Puvel.
+|Role          = Creator of the Five Nights with Barsik series
+}}
+'''P4shtet''' (pronounced as '''Pashtet''', in Russian '''Паштет''', by real name '''Pavel Shakhmatov''', in Russian '''Павел Шахматов''') is the creator of the [[Five Nights with Barsik series]], the photographs used in it, and the owner of [[Barsik]] and [[Matilda]]. He is the founder of [[Smart Games Team]].
+
+== Video games ==
+Pavel's games as a video game developer:
+
+=== Released ===
+* [[Five Nights with Barsik 2]];
+* [[Five Nights with Barsik 3 Second Teaser Game]];
+* [[Five Nights with Barsik 3]];
+* [[Five Nights with Barsik]];
+* [[FNwB Secrets]];
+* [[Fun with Toy Jake]];
+* [[It's Time to Play]];
+* [[Project HE]];
+* Having Bad Time with Flowey;
+* Kitty Catches Butterflies;
+* One Night at Foxy's;
+* Vojak.exe.
+
+=== Cancelled ===
+* [[Cats from Nothing]];
+* [[Five Nights with Barsik 4]];
+* [[Five Nights with Barsik: Rebooted]];
+* [[Galaxy Cat Warrior]];
+* [[One Night with Kotya: Sister Location]];
+* [[The Return to Kotya]];.
+* Memento Vitae.
+<br>
+
+== History ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2015 ===
+<div class="mw-collapsible-content">
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== April ====
+<div class="mw-collapsible-content">
+In the spring of 2015, inspired by the popular horror game series [[Five Nights at Freddy's series|"Five Nights at Freddy's"]], Pavel decided to create his own game about his kitten named Barsik, titled "Five Nights At Barsik's."
+On April 9 at 11:09 AM, Pavel enthusiastically announced the start of development:
+<gallery>
+April 9, 2015 18 05.jpg|"The game will happen! Menu is under development in Clickteam fusion 2.5. Get ready! :3"
+</gallery>
+A few hours after the announcement at 6:05 PM, Pavel created a VKontakte community "Five Nights At Barsik's|Five Nights with Barsik" and immediately began searching for a [[Zodli|voice actor]] for the [[Genndy|phone guy]]. At 6:13 PM, [[Kirill Shkliarevsky]] offered his candidacy for voice acting, and Pavel accepted him as a test voice actor.
+* By April 19 at 9:04 AM, Pavel had already finished making the camera rotation in the game. At 5:14 PM, he announced that [[Kirill Shkliarevsky|Kirill's]] microphone broke and he needed a new person for voice acting.
+* On April 21 at 4:13 PM, Pavel accepted [[Zodli]] as the new voice actor. At 4:14 PM, he announced that a voice actor had been found.
+* On April 24 at 9:23 AM, Pavel announced that news about the game would be published on his [[X]] profile. At 9:34 AM, he asked the VKontakte community subscribers how to distribute the game: through [[Game Jolt]] or [[Yandex Disk]]. The [[Game Jolt]] option won.
+* On April 26 at 12:34 PM, Pavel created a page on [[Game Jolt]], which is currently abandoned.
+* On April 27 at 5:32 PM, Pavel announced that since he only had the demo version of Clickteam Fusion 2.5, not the full version, he could not continue developing the game and asked subscribers to send him the full version.
+* On April 28, game tester [[MaksFred]] created an account on [[X]], and at 10:57 AM, Pavel shared the [https://x.com/MaksSchmidt228 link] with his subscribers to support his tester.
+* On April 28 at 11:27 AM, Pavel published the first teaser for [[Five Nights with Barsik|FNwB]].
+<gallery>
+youcantbeathe April 28, 2015 11 27.png|"The game is still being developed, so I'll give you a teaser"
+</gallery>
+* On April 29 at 10:59 AM, Pavel announced that he received the full version of Clickteam Fusion 2.5 from [[MaksFred]].
+<gallery>
+April 3, 2015 10 59.jpg|"Finally got [[Clickteam Fusion 2.5 Developer|Clickteam fusion 2.5. Full]] from [[MaksFred|Maxim Schmidt]]! His name will be in the game menu. Thank you all for your attention"
+</gallery>
+* On April 29 at 5:06 PM, Pavel published the second teaser for the game.
+<gallery>
+themwillbecankill April 29, 2015 17 06.png|"New FNwB teaser"
+</gallery>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== May ====
+<div class="mw-collapsible-content">
+* On May 10 at 9:56 AM, Pavel announced that he improved the main menu of the game and added [[Easter eggs]] to it.
+* On May 18 at 12:07 PM, Pavel shared a gameplay screenshot with his subscribers.
+* On May 24, Pavel created the FNwB page on [[Game Jolt]] (https://gamejolt.com/games/five-nights-at-barsik-s/62886) with the following description:
+{{Structured quote
+|Text     = Welcome to your good old house! you already lived in it for 5 years after 1 year you notice in the house 2 animals and 2 toys You notice that they all want to kill you and you go to a psychologist and His team have put surveillance cameras and gave the mask Freddy fazbear! And they send you on a week to survive until 6 A.m..<br>Windows 7/XP/8/8.1<br>Phone Guy:Zodli<br>Creator:Pavel Shamatov<br>Testers:Maksim Pidenko,Gleb Merlinski<br>#FNAF #FNAF_Parodies #FNAB<br>#strategy
+|Speaker  = Pavel
+|Source   = Description of the [[Five Nights with Barsik|FNwB]] page on [[Game Jolt]]
+}}
+* On the same day, he wrote a Devlog entry on the page about the release of the alpha version:
+{{Structured quote
+|Text     = Alpha TEST! -LINK HERE!-<br>Alpha test came out. What there is: -One Night-One Enemy-Kill Easter eggs. In one word fun<br>Sorry not to defend ourselves, to Defend ourselves we will be in the Beta version<br>LINK-https://yadi.sk/d/IsmfXEL8gq3bJ
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] page on [[Game Jolt]]
+}}
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== June ====
+<div class="mw-collapsible-content">
+* On June 3, Pavel created a second VKontakte community for the game called "Five Nights At Barsik'/Five Nights with Barsik".
+* On June 4, he published a teaser trailer for the game (now deleted).
+* On June 9, Pavel wrote a Devlog entry on the FNwB page on Game Jolt:
+{{Structured quote
+|Text     = News.. NEWS!<br>Okay guys Beta 0.1 is created. The beta version is ready on 69% Expected ;)<br>Окей ребят Бета 0.1 создается. Бета версия готова на 69% Ждем ;)<br>-Pavel.Павел
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] page on [[Game Jolt]]
+}}
+* On June 15, he created a new account on [[Game Jolt]] under the nickname FazcatGames: https://gamejolt.com/@FazcatGames.
+* On June 19, he created a page for the [[Five Nights with Barsik|FNwB]] saga on [[Game Jolt]] (https://gamejolt.com/games/five-nights-at-barsik-s-saga/74608) with the following description:
+{{Structured quote
+|Text     = Here's the full story is told...<br>This a real SAGA...<br>Windows 7/XP/8/8.1<br>Phone Guy:Zodli<br>Creator:Pavel Shamatov<br>Testers:Maksim Pidenko,Gleb Merlinski<br>Special Thanks to:Smart Games Team,RoboboGames and MaksimusGames<br>#FNAF #FNAF_Parodies #FNAB<br>#other
+|Speaker  = Pavel
+|Source   = Description of the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+* Over time, images and videos were posted on the page:
+** Screenshot of the FNwB main menu with the caption "New Title! ^V^";
+** Screenshot of FNwB gameplay showing the third camera with the caption "Camera 03";
+** FNwB teaser trailer with the caption "Teaser" and the description "Okay little teaser: p";
+** Screenshot of FNwB2 gameplay showing the office with the caption "Office-FNAB2";
+** Screenshot of the FNwB2 main menu with the caption "FNAB 2 MENU";
+** FNwB2 trailer with the caption "Five Nights At Barsik's 2 Trailer" and the description "After 2 years of terrible things that were happening in the house.. the New Company was found in the wreckage of the house, Suit and so they open Funny Pizza Cat Hotel.. this hotel would be people but it's weird to see yourself.. the Hotel has One animatronic".
+* At 2:35 PM, Pavel published a Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]:
+{{Structured quote
+|Text     = I am back..<br>Hello guys, This is a new page of my game is the fact that you restart the computer, I forgot the password and the password was on the desktop so I created a new profile for your game! Thank you all for your attention! And Yes there is a new website!<br>Link-http://pavelwehaveplacefo.wix.com/fazcatgames
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+* On June 21 at 6:45 AM, Pavel published a Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]:
+{{Structured quote
+|Text     = Alpha Test HERE!<br>Alpha test came out. What there is: -One Night-One Enemy-Kill Easter eggs. In one word fun<br>Sorry not to defend ourselves, to Defend ourselves we will be in the Beta version
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+* On June 24 at 1:38 PM, Pavel published a Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]:
+{{Structured quote
+|Text     = The beta release is very nigh<br>Hi guys I have some good news :3 The first enemy because I can't call him a animatronic In 1 night! In The Beta Only 2 Nights! WAITING WAITING WAITING :3<br>-Pavel
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}{{Structured quote
+|Text     = TROLL GAME<br>DOWNLOAD-https://yadi.sk/d/VpUKQjbVhTGwL P.S:CLICK BUTTON:"PASSWORD"<br>THIS FAKE VERSION SORRY :D JUST I AM MAKE TROLL GAME!
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== July ====
+<div class="mw-collapsible-content">
+On July 11 at 8:56 AM, Pavel published a Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]:
+{{Structured quote
+|Text     = 34444444<br>3100316571210294856027
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+On July 27, Pavel and [[Maximus Games]] founded the video game development team [[Smart Games Team]], which became the new center for game news and discussions. Shortly after, a VKontakte community for the team was created.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== August ====
+<div class="mw-collapsible-content">
+Finally, after months of hard work, on August 7, 2015, the official release of the full version of Five Nights with Barsik took place. Pavel wrote about this at 10:53 AM in a Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]:
+{{Structured quote
+|Text     = FULL VERSION HERE!!<br>You can this version DOWNLOAD!!
+|Speaker  = Pavel
+|Source   = Devlog entry on the [[Five Nights with Barsik|FNwB]] saga page on [[Game Jolt]]
+}}
+On August 10, Pavel wrote about this in the VKontakte community.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+==== November ====
+<div class="mw-collapsible-content">
+In the fall of the same year, Pavel was already working on [[Five Nights with Barsik 3]].
+</div></div>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2016 ===
+<div class="mw-collapsible-content">
+In 2016, Pavel was actively working on the [[Five Nights with Barsik 4|fourth part of the series]], as well as on a new project [[Galaxy Cat Warrior]]. He transferred the rights to the Five Nights with Barsik series to [[Deflecta]], who began developing [[Five Nights with Barsik 2.0 update|version 2.0]].
+
+==== April ====
+On April 17, [[Maximus Games]] transferred his "MAD Developing" team under Pavel's leadership, leaving the team himself.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2017 ===
+<div class="mw-collapsible-content">
+
+==== July ====
+On July 9, Pavel founded a new team called "The Cat Brothers". A VKontakte community was created at https://vk.com/thecatbrothers.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2018 ===
+<div class="mw-collapsible-content">
+
+==== December ====
+By the end of 2018, on December 23, Pavel decided to close "The Cat Brothers" and founded a new team, "Chocolate Tea". A VKontakte community was created at https://vk.com/chocolateteateam and a [[Game Jolt]] account was created at: https://gamejolt.com/@Chocolate_Tea. Pavel began developing a new game, "Memento Vitae".
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2021 ===
+<div class="mw-collapsible-content">
+
+==== August ====
+On August 27, Pavel created a [[VKontakte]] community for "Memento Vitae", https://vk.com/mementovitaee.
+
+==== October ====
+* On October 16, he published a couple of game concepts.
+* On October 17, he published a video with the animation of the game's main menu.
+* On October 18, he published a concept of one of the game's characters.
+* On October 19, he showed an updated logo in the main menu.
+* On October 24, he advertised the game artist's community.
+* On October 25, he published a concept of the sparrow character Krapiva Pugnato. On the same day, he published a concept of the game's main character.
+</div></div>
+<br>
+
+== Gallery ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== [[YouTube]] ===
+<div class="mw-collapsible-content">
+<gallery>
+Pavel's_fourth_channel_avatar.jpg|Avatar of Pavel's fourth YouTube channel
+Pavel's_third_channel_header.jpg|Banner of Pavel's third YouTube channel
+Pavel's_third_channel_avatar.jpg|Avatar of Pavel's third YouTube channel
+Pavel's_second_channel_header.jpg|Banner of Pavel's second YouTube channel
+Pavel's_second_channel_avatar.jpg|Avatar of Pavel's second YouTube channel
+Smart_Games_Team_Official_channel_avatar.jpg|Pavel's character, [[Fazcat]], on the "Smart Games Team Official" YouTube channel avatar (left)
+Smart_Games_Team_Official_channel_header.jpg|Pavel's character, [[Fazcat]], on the "Smart Games Team Official" YouTube channel banner (right)
+Pavel's_first_channel_header.jpg|Banner of Pavel's first YouTube channel
+Pavel's_first_channel_avatar.jpg|Avatar of Pavel's first YouTube channel
+</gallery>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== [[VKontakte]] ===
+<div class="mw-collapsible-content">
+<gallery>
+SGT_avatar.jpg|Pavel's character, [[Fazcat]], on the [[Smart Games Team]] avatar by [[Maximus Games]] (right)
+Hlebes's_SGT_avatar_1_January_2016.jpg|Pavel's character, [[Fazcat]], on the [[Smart Games Team]] avatar by Hlebes (left)
+SGT_avatar_2015.jpg|Pavel's character, [[Fazcat]], on the [[Smart Games Team]] avatar by Hlebes (right)
+3_April_2015_10_59.jpg|Avatar of Pavel's first [[VKontakte]] page from April 3, 2015
+6_March_2015.jpg|Avatar of Pavel's first [[VKontakte]] page from March 6, 2015
+</gallery>
+</div></div>
+<br>
+
+== Trivia ==
+* P4shtet had three cats: [[Matilda]], [[Barsik]], and [[Vasya]].
+<br>
+
+== Links ==
+* [https://vk.com/pavelfoundyoupavelcollwtf First VKontakte page];
+* [https://vk.com/p4shtetdada Second VKontakte page];
+* [https://vk.com/p4shtetoof VKontakte community];
+* [https://gamejolt.com/@PASAYOUFIADI91ei941-932-50442 First Game Jolt profile];
+* [https://gamejolt.com/@FazcatGames Second Game Jolt profile];
+* [https://gamejolt.com/@Pashtet Third Game Jolt profile];
+* [https://gamejolt.com/@p4shtet__ Fourth Game Jolt profile];
+* [https://x.com/pavel_122323 X profile];
+* [https://www.youtube.com/@%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2-%D0%BB8%D0%BE First YouTube channel];
+* [https://www.youtube.com/@fazcatgames1542 Second YouTube channel];
+* [https://www.youtube.com/channel/UCNX8Ih0OYZuqNx-8zZ-Uaxw Third YouTube channel];
+* [https://www.youtube.com/@p4shtettt Fourth YouTube channel].
+
+[[ru:P4shtet]]
+
+[[Category:Artists]]
+[[Category:Authors]]
+[[Category:Barsik]]
+[[Category:Creators]]
+[[Category:Developers]]
+[[Category:Five Nights with Barsik 2 developers]]
+[[Category:Five Nights with Barsik 2 testers]]
+[[Category:Five Nights with Barsik 2]]
+[[Category:Five Nights with Barsik 3 developers]]
+[[Category:Five Nights with Barsik 3 testers]]
+[[Category:Five Nights with Barsik 3]]
+[[Category:Five Nights with Barsik 4 developers]]
+[[Category:Five Nights with Barsik 4 testers]]
+[[Category:Five Nights with Barsik 4]]
+[[Category:Five Nights with Barsik developers]]
+[[Category:Five Nights with Barsik series developers]]
+[[Category:Five Nights with Barsik series]]
+[[Category:Five Nights with Barsik testers]]
+[[Category:Five Nights with Barsik]]
+[[Category:Former members of Other Games Production]]
+[[Category:Founders]]
+[[Category:Male people]]
+[[Category:Males]]
+[[Category:One Night with Kotya creators]]
+[[Category:Other Games Production developers]]
+[[Category:Other Games Production members]]
+[[Category:Other Games Production]]
+[[Category:P4shtet's Five Nights with Barsik reboot]]
+[[Category:People]]
+[[Category:Real individuals]]
+[[Category:Real life]]
+[[Category:Real people]]
+[[Category:Singers]]
+[[Category:Smart Games Team creators]]
+[[Category:Smart Games Team developers]]
+[[Category:Smart Games Team founders]]
+[[Category:Smart Games Team members]]
+[[Category:Smart Games Team]]
+[[Category:Vasya]]

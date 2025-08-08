@@ -1,0 +1,116 @@
+{{Game infobox
+|Name               = Five Nights with Barsik 2
+|Icon               = [[File:FNwB2_icon.png|100px]]
+|Image              = FNwB2_menu.png
+|Announcement date  = June 4, 2015
+|Release date       = September 2015
+|2.0 announcement   = May 2017
+|Developers         = [[P4shtet]], [[Deflecta]]
+|Engine             = Clickteam Fusion 2.5
+|Genre              = Survival horror
+|OS                 = Windows
+|Publishers         = [[P4shtet]]
+|Voice actors       = [[Zodli]]
+|Fandom wikis       = * [https://five-nights-with-barsik.fandom.com/ru/wiki/ Russian wiki];
+* [https://five-nights-with-barsik.fandom.com/wiki/ English wiki].
+|Game Jolt community= https://gamejolt.com/c/FNwBarsik-uzhyfv
+|Game Jolt page     = https://gamejolt.com/games/FNwBold/188928
+|VK community       = https://vk.com/fivenightswithbarsik
+|Previous           = [[Five Nights with Barsik]]
+|Next               = [[Five Nights with Barsik 3]]
+}}'''Five Nights with Barsik 2''' (abbreviated as '''FNwB2''', in Russian '''Пять ночей с Барсиком 2''' and '''ПНСБ2''', pronounced as '''Pyat nochey s Barsikom dva''' and '''PNSB dva''', <small>formerly known as ''Five Nights at Barsik's 2'' and ''FNaB2''</small>) is the second installment in the [[Five Nights with Barsik series|Five Nights with Barsik series]], released by [[P4shtet]] in September 2015. In May 2017, [[Deflecta]] began developing version 2.0, which has not been released yet. The game tells the story of events that happened to [[Maxim Rakintsev (FNwB)|Maxim Rakintsev]] in the [[Funny Cat Hotel]]. This is the second game in the Five Nights with Barsik trilogy and currently remains in a terrible state.
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+== Plot ==
+<div class="mw-collapsible-content">
+Unfortunately, the game's plot has many holes, but the upcoming [[Five Nights with Barsik 2 2.0 update|2.0 update]] will likely fix many of them.
+
+The main character came across a job advertisement in the newspaper for a security guard position at the [[Funny Cat Hotel]] and decided to apply for the job. For protection against an [[Jake|animatronic]] that might appear at night, he was provided only with doors and security cameras.
+
+=== During the game's events ===
+Every night, a hotel employee calls [[Maxim Rakintsev (FNwB)|Maxim Rakintsev]] and provides essential information about the job. On the third night, he is informed about a burned-down warehouse near the hotel where the real mascot of the [[Funny Cat Hotel]] was destroyed. On the fourth night, after a loud scream, the call suddenly ends, and on the sixth night, the employee tells about an accident: a child was hospitalized after being harmed by an animatronic.
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== Characters ===
+<div class="mw-collapsible-content">
+
+==== Positive ====
+* [[Maxim Rakintsev in Five Nights with Barsik universe|Maxim Rakintsev]];
+* [[Phone Guy]].
+
+==== Neutral ====
+* [[Mecha-Kotya]];
+* [[Nightmare Jake]];
+* [[Rattle Death]].
+
+==== Antagonists ====
+* [[Barsik's Phantom]];
+* [[Golden Teddy Bear]];
+* [[Jake]];
+* [[Matilda's Phantom]];
+* [[Phantom Barsik]];
+* [[Phantom Kotya]];
+* [[Scarlet Dogy]].
+</div></div>
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+== History ==
+<div class="mw-collapsible-content">
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2015 ===
+<div class="mw-collapsible-content">
+
+==== June ====
+* Game development began in June.
+* On June 4, a teaser game for the main game was released, [[FNwB Secrets]].
+* Later, a demo version was released. Unfortunately, the demo version has been deleted and can no longer be found.
+
+==== September ====
+* In September, the game was published on [[Game Jolt]].
+</div></div>
+</div></div>
+
+== Gallery ==
+<gallery>
+FNwB2 demo.png|End of the demo version. ''Thank you for playing the demo, which will soon be complete!''
+</gallery>
+
+__NOTOC__
+
+[[ru:Пять ночей с Барсиком 2]]
+
+[[Category:Computer games in the Five Nights with Barsik series]]
+[[Category:Computer games]]
+[[Category:Five Nights with Barsik computer game series]]
+[[Category:Five Nights with Barsik computer games]]
+[[Category:Five Nights with Barsik game series]]
+[[Category:Five Nights with Barsik games with male playable character]]
+[[Category:Five Nights with Barsik games with male protagonist]]
+[[Category:Five Nights with Barsik series computer games]]
+[[Category:Five Nights with Barsik series games]]
+[[Category:Five Nights with Barsik series video games]]
+[[Category:Five Nights with Barsik series]]
+[[Category:Five Nights with Barsik video game series]]
+[[Category:Five Nights with Barsik video games with male playable character]]
+[[Category:Five Nights with Barsik video games with male protagonist]]
+[[Category:Five Nights with Barsik video games]]
+[[Category:Five Nights with Barsik]]
+[[Category:Games by P4shtet]]
+[[Category:Games by Smart Games Team]]
+[[Category:Games developed by Deflecta]]
+[[Category:Games released by P4shtet]]
+[[Category:Games with male playable character]]
+[[Category:Games with male protagonist]]
+[[Category:Games]]
+[[Category:P4shtet games]]
+[[Category:P4shtet video games]]
+[[Category:Smart Games Team games]]
+[[Category:Smart Games Team video games]]
+[[Category:Smart Games Team]]
+[[Category:Video games by P4shtet]]
+[[Category:Video games by Smart Games Team]]
+[[Category:Video games with male playable character]]
+[[Category:Video games with male protagonist]]
+[[Category:Video games]]

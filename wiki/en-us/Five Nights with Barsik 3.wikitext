@@ -1,0 +1,149 @@
+{{Game infobox
+|Name               = Five Nights with Barsik 3
+|Icon               = [[File:FNwB3 icon.png|100px]]
+|Image              = FNwB3 menu.png
+|Announcement date  = September 2015
+|Release date       = March 2016
+|2.0 announcement   = 2017
+|Developers         = [[P4shtet]], [[Deflecta]]
+|Engine             = Clickteam Fusion 2.5
+|Genre              = Survival horror
+|OS                 = Windows
+|Publishers         = [[P4shtet]]
+|Fandom wikis       = * [https://five-nights-with-barsik.fandom.com/ru/wiki/ Russian wiki];
+* [https://five-nights-with-barsik.fandom.com/wiki/ English wiki].
+|Game Jolt community= https://gamejolt.com/c/fnwbarsik-uzhyfv
+|Game Jolt page     = https://gamejolt.com/games/fnwbold/188928
+|VK community       = https://vk.com/fivenightswithbarsik
+|Previous           = [[Five Nights with Barsik 2]]
+|Next               = [[Five Nights with Barsik 4]]
+}}'''Five Nights with Barsik 3''' (abbreviated as '''FNwB3''', in Russian '''Пять ночей с Барсиком 3''' and '''ПНСБ3''', pronounced as '''Pyat nochey s Barsikom tri''' and '''PNSB tri''', <small>formerly known as ''Five Nights at Barsik 3'' and ''FNaB3''</small>) is the third installment in the [[Five Nights with Barsik series|Five Nights with Barsik series]]; developed by [[P4shtet]] and released in March 2016.
+
+== Description ==
+Description of the game as of October 24, 2015.
+<tabber>
+Fixed=
+Welcome to the new home… But without cameras… You have sharpness and light… Play music… Fight your nightmares! These cats are not cute at all—they want to tear you to pieces… So if you see a light in the corridor… Consider it your last moment. But you’re not afraid, right?
+
+|-|Original=
+Welcome to the new home… But without cameras… you have a sharpness and light.. Play music.. Fight with your nightmares! Because these cats are not so cute they want to chew you to pieces.. so if you see a light in the passage.. Consider what he became last. But you’re not afraid right?
+
+</tabber>
+
+<gallery>
+FNwB3 teaser March 17, 2017.jpg|Teaser of a game about [[Emotions|emotions]]
+October 26, 2015.jpg|A scene from the game trailer
+</gallery>
+
+== Plot ==
+A girl named [[Dina]] falls into a coma and experiences nightmares featuring terrifying cats and toys.
+
+=== Characters ===
+
+==== Positive ====
+* [[Dina's Parent]];
+* [[Dina]];
+* [[Plush Barsik]].
+
+==== Neutral ====
+* [[Blue Person]];
+* [[Jake]];
+* [[Mecha-Kotya]];
+* [[Red Person]];
+* [[The Boy]].
+
+==== Antagonists ====
+* [[Dina's Brother]];
+* [[Fazcat]];
+* [[Fredcat Error]];
+* [[Nightmare Barsik]];
+* [[Nightmare Kotya]];
+* [[Nightmare Kuzya]];
+* [[Nightmare Matilda]];
+* [[Nightmare Teddy Bear]];
+* [[Nightmare Tigran]];
+* [[Nightmare Vasya]];
+* [[Nightmare Virsus]];
+* [[Shadow Barsik]];
+* [[Toy Jake]];
+* [[Zehna]].
+
+===== Emotions =====
+* [[Death]];
+* [[Fear]];
+* [[Pain]].
+
+== Gameplay ==
+Players must survive five nights while being hunted. For defense, they have a [[Flashlight|flashlight]] and a [[Smartphone (FNwB)|smartphone]] with music.
+
+== History ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2015 ===
+<div class="mw-collapsible-content">
+
+==== September ====
+* In September 2015, applications for game testing were opened.
+
+==== October ====
+* On October 25, alpha version 0.0.1 was released.
+* On October 30, alpha version 0.0.2 was released.
+
+==== November ====
+* On November 13, [[P4shtet]] announced news about the upcoming game trailer:
+{{Structured quote
+|Text     = News about the FNAB 3 Trailer. Good day, guys! As Five Nights with Barsik 3 is under development… I will add a trailer and upload it tomorrow evening =3 Oh, and we are making the trailer together with the creator of [[One Night with Kotya series|ONwK]] ([[Maximus Games|Maksimus Games]])
+|Speaker  = [[P4shtet]]
+}}
+* On November 15, [[Maximus Games]] edited the game trailer in [[MLG]] style and uploaded it to [[YouTube]] under the title "Five Nights At Barsik's 3 Official Trailer MLG edit".
+* On November 16 at 13:23, [[P4shtet]] implemented a save system in "[[Fun with Toy Jake]]" and planned to apply it to "[[Fun with Zehna]]". At 13:25, he announced that an extended demo would soon be released. At 16:05, [[P4shtet]] published a new teaser game on the saga page: http://gamejolt.com/games/five-nights-at-barsik-s-offical-saga/92526.
+* On November 18 at 7:29, the extended demo was released.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2016 ===
+<div class="mw-collapsible-content">
+
+==== March ====
+* The game was released.
+</div></div>
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+=== 2017 ===
+<div class="mw-collapsible-content">
+* The rights to the game were transferred to [[Deflecta]]; who began developing version 2.0.
+</div></div>
+
+== Trivia ==
+* Years later, [[P4shtet]] announced a [[P4shtet's Five Nights with Barsik reboot|reboot of the series]]; with the description of the first chapter resembling the description of Five Nights with Barsik 3.
+
+[[ru:Пять ночей с Барсиком 3]]
+
+[[Category:Computer games in the Five Nights with Barsik series]]
+[[Category:Computer games]]
+[[Category:Five Nights with Barsik computer game series]]
+[[Category:Five Nights with Barsik computer games]]
+[[Category:Five Nights with Barsik game series]]
+[[Category:Five Nights with Barsik games with female protagonist]]
+[[Category:Five Nights with Barsik series computer games]]
+[[Category:Five Nights with Barsik series games]]
+[[Category:Five Nights with Barsik series video games]]
+[[Category:Five Nights with Barsik series]]
+[[Category:Five Nights with Barsik video game series]]
+[[Category:Five Nights with Barsik video games]]
+[[Category:Five Nights with Barsik]]
+[[Category:Games by P4shtet]]
+[[Category:Games by Smart Games Team]]
+[[Category:Games developed by Deflecta]]
+[[Category:Games released by P4shtet]]
+[[Category:Games with female protagonist]]
+[[Category:Games]]
+[[Category:P4shtet games]]
+[[Category:P4shtet video games]]
+[[Category:Smart Games Team games]]
+[[Category:Smart Games Team video games]]
+[[Category:Smart Games Team]]
+[[Category:Video games by P4shtet]]
+[[Category:Video games by Smart Games Team]]
+[[Category:Video games]]

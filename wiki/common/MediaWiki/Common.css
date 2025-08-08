@@ -918,9 +918,23 @@ body.page-Пять_ночей_с_Барсиком.theme-fandomdesktop-dark {
   --theme-link-color: #ffe675;
 }
 
+/* 📁📁📁📁 Five_Nights_with_Barsik */
+/* 🌗 Тёмная тема: Фон_с_ПНСБ.jpg */
+body.page-Five_Nights_with_Barsik.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/9/98/Фон_с_ПНСБ.jpg/revision/latest?cb=20250202174403&format=original&path-prefix=ru);
+  --theme-link-color: #ffe675;
+}
+
 /* 📁📁📁📁 Пять_ночей_с_Барсиком 2 */
 /* 🌗 Тёмная тема: Фон_с_ПНСБ2.jpg */
 body.page-Пять_ночей_с_Барсиком_2.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/7/74/Фон_с_ПНСБ2.jpg/revision/latest?cb=20250210220739&format=original&path-prefix=ru);
+  --theme-link-color: #ff8875;
+}
+
+/* 📁📁📁📁 Five_Nights_with_Barsik 2 */
+/* 🌗 Тёмная тема: Фон_с_ПНСБ2.jpg */
+body.page-Five_Nights_with_Barsik_2.theme-fandomdesktop-dark {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/7/74/Фон_с_ПНСБ2.jpg/revision/latest?cb=20250210220739&format=original&path-prefix=ru);
   --theme-link-color: #ff8875;
 }
@@ -932,9 +946,23 @@ body.page-Пять_ночей_с_Барсиком_3.theme-fandomdesktop-dark {
   --theme-link-color: #8CFF75;
 }
 
-/* 📁📁📁📁 Пять_ночей_с_Барсиком 4 */
+/* 📁📁📁📁 Five_Nights_with_Barsik 3 */
+/* 🌗 Тёмная тема: Фон_с_ПНСБ3.jpg */
+body.page-Five_Nights_with_Barsik_3.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/8/80/Фон_с_ПНСБ3.jpg/revision/latest?cb=20250210220738&format=original&path-prefix=ru);
+  --theme-link-color: #8CFF75;
+}
+
+/* 📁📁📁📁 Пять ночей с Барсиком 4 */
 /* 🌗 Тёмная тема: Фон_с_ПНСБ4.jpg */
 body.page-Пять_ночей_с_Барсиком_4.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/9/95/Фон_с_ПНСБ4.jpg/revision/latest?cb=20250210220740&format=original&path-prefix=ru);
+  --theme-link-color: #8e75ff;
+}
+
+/* 📁📁📁📁 Five_Nights_with_Barsik 4 */
+/* 🌗 Тёмная тема: Фон_с_ПНСБ4.jpg */
+body.page-Five_Nights_with_Barsik_4.theme-fandomdesktop-dark {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/9/95/Фон_с_ПНСБ4.jpg/revision/latest?cb=20250210220740&format=original&path-prefix=ru);
   --theme-link-color: #8e75ff;
 }
@@ -954,8 +982,20 @@ body.page-Алмазный_Барсик.theme-fandomdesktop-dark {
   --theme-link-color: #8e75ff;
 }
 
+/* 📁📁📁📁 Diamond_Barsik */
+/* 🌗 Тёмная тема: Фон с ПНСБ4.jpg */
+body.page-Diamond_Barsik.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/9/95/Фон_с_ПНСБ4.jpg/revision/latest?cb=20250210220740&format=original&path-prefix=ru);
+  --theme-link-color: #8e75ff;
+}
+
 /* ☀️ Светлая тема: Светлый фон с Барсиком.png */
 body.page-Алмазный_Барсик.theme-fandomdesktop-light {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/8/8e/Светлый_фон_с_Барсиком.png/revision/latest?cb=20250419201825&format=original&path-prefix=ru);
+}
+
+/* ☀️ Светлая тема: Светлый фон с Барсиком.png */
+body.page-Diamond_Barsik.theme-fandomdesktop-light {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/8/8e/Светлый_фон_с_Барсиком.png/revision/latest?cb=20250419201825&format=original&path-prefix=ru);
 }
 
@@ -973,6 +1013,13 @@ body.page-Барсик.theme-fandomdesktop-dark {
   --theme-link-color: #ffe675;
 }
 
+/* 📁📁📁📁 Barsik */
+/* 🌗 Тёмная тема: Тёмный фон с Барсиком.png */
+body.page-Barsik.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/1/1b/Тёмный_фон_с_Барсиком.png/revision/latest?cb=20250419201749&format=original&path-prefix=ru);
+  --theme-link-color: #ffe675;
+}
+
 body.page-Барсик_во_вселенной_Пяти_ночей_с_Барсиком.theme-fandomdesktop-dark {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/1/1b/Тёмный_фон_с_Барсиком.png/revision/latest?cb=20250419201749&format=original&path-prefix=ru);
   --theme-link-color: #ffe675;
@@ -980,6 +1027,11 @@ body.page-Барсик_во_вселенной_Пяти_ночей_с_Барси
 
 /* ☀️ Светлая тема: Светлый фон с Барсиком.png */
 body.page-Барсик.theme-fandomdesktop-light {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/8/8e/Светлый_фон_с_Барсиком.png/revision/latest?cb=20250419201825&format=original&path-prefix=ru);
+}
+
+/* ☀️ Светлая тема: Светлый фон с Барсиком.png */
+body.page-Barsik.theme-fandomdesktop-light {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/8/8e/Светлый_фон_с_Барсиком.png/revision/latest?cb=20250419201825&format=original&path-prefix=ru);
 }
 
@@ -1008,6 +1060,13 @@ body.page-Кошмарная_Матильда.theme-fandomdesktop-dark {
   --theme-link-color: #FFE575;
 }
 
+/* 📁📁📁📁 Nightmare_Matilda */
+/* 🌗 Тёмная тема: Фон с Кошмарной Матильдой.jpg */
+body.page-Nightmare_Matilda.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/e/e1/Фон_с_Кошмарной_Матильдой.jpg/revision/latest?cb=20250209061252&format=original&path-prefix=ru);
+  --theme-link-color: #FFE575;
+}
+
 /* 📁📁📁📁 Кошмарный_Барсик */
 /* 🌗 Тёмная тема: Фон с Кошмарным Барсиком.jpg */
 body.page-Кошмарный_Барсик.theme-fandomdesktop-dark {
@@ -1015,7 +1074,21 @@ body.page-Кошмарный_Барсик.theme-fandomdesktop-dark {
   --theme-link-color: #FF8E75;
 }
 
+/* 📁📁📁📁 Nightmare_Barsik */
+/* 🌗 Тёмная тема: Фон с Кошмарным Барсиком.jpg */
+body.page-Nightmare_Barsik.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/6/64/Фон_с_Кошмарным_Барсиком.jpg/revision/latest?cb=20250209061253&format=original&path-prefix=ru);
+  --theme-link-color: #FF8E75;
+}
+
 /* 📁📁📁📁 Кошмарный_Вирсус */
+/* 🌗 Тёмная тема: Фон с Кошмарным Вирсусом.jpg */
+body.page-Кошмарный_Вирсус.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/b/b9/Фон_с_Кошмарным_Вирсусом.jpg/revision/latest?cb=20250209061245&format=original&path-prefix=ru);
+  --theme-link-color: #FF75FF;
+}
+
+/* 📁📁📁📁 Nightmare_Virsus */
 /* 🌗 Тёмная тема: Фон с Кошмарным Вирсусом.jpg */
 body.page-Кошмарный_Вирсус.theme-fandomdesktop-dark {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/b/b9/Фон_с_Кошмарным_Вирсусом.jpg/revision/latest?cb=20250209061245&format=original&path-prefix=ru);
@@ -1043,6 +1116,13 @@ body.page-Кошмарный_Плюшевый_Мишка.theme-fandomdesktop-dar
   --theme-link-color: #FF759A;
 }
 
+/* 📁📁📁📁 Nightmare_Teddy_Bear */
+/* 🌗 Тёмная тема: Фон с К. П. М.jpg */
+body.page-Nightmare_Teddy_Bear.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/2/24/Фон_с_К._П._М.jpg/revision/latest?cb=20250209061255&format=original&path-prefix=ru);
+  --theme-link-color: #FF759A;
+}
+
 /* 📁📁📁📁 Кошмарный_Тигран */
 /* 🌗 Тёмная тема: Фон_с_Кошмарным_Тиграном.jpg */
 body.page-Кошмарный_Тигран.theme-fandomdesktop-dark {
@@ -1064,8 +1144,20 @@ body.page-Плюшевый_Мишка.theme-fandomdesktop-dark {
   --theme-link-color: #8E75FF;
 }
 
+/* 📁📁📁📁 Teddy Bear */
+/* 🌗 Тёмная тема: Тёмный_фон_с_Мишкой.png */
+body.page-Teddy_Bear.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/0/0a/Тёмный_фон_с_Мишкой.png/revision/latest?cb=20250419201809&format=original&path-prefix=ru);
+  --theme-link-color: #8E75FF;
+}
+
 /* ☀️ Светлая тема: Светлый_фон_с_Мишкой.png */
 body.page-Плюшевый_Мишка.theme-fandomdesktop-light {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/2/25/Светлый_фон_с_Мишкой.png/revision/latest?cb=20250419201843&format=original&path-prefix=ru);
+}
+
+/* ☀️ Светлая тема: Светлый_фон_с_Мишкой.png */
+body.page-Teddy_Bear.theme-fandomdesktop-light {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/2/25/Светлый_фон_с_Мишкой.png/revision/latest?cb=20250419201843&format=original&path-prefix=ru);
 }
 
@@ -1079,6 +1171,13 @@ body.page-Страх.theme-fandomdesktop-dark {
 /* 📁📁📁📁 Теневой Барсик */
 /* 🌗 Тёмная тема: Фон_с_Теневым_Барсиком.jpg */
 body.page-Теневой_Барсик.theme-fandomdesktop-dark {
+  --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/4/4e/Фон_с_Теневым_Барсиком.jpg/revision/latest?cb=20250209061250&format=original&path-prefix=ru);
+  --theme-link-color: #FFFFFF;
+}
+
+/* 📁📁📁📁 Shadow Barsik */
+/* 🌗 Тёмная тема: Фон_с_Теневым_Барсиком.jpg */
+body.page-Shadow_Barsik.theme-fandomdesktop-dark {
   --theme-body-background-image: url(https://static.wikia.nocookie.net/five-nights-with-barsik/images/4/4e/Фон_с_Теневым_Барсиком.jpg/revision/latest?cb=20250209061250&format=original&path-prefix=ru);
   --theme-link-color: #FFFFFF;
 }

@@ -1,0 +1,301 @@
+{{Game infobox
+|Name               = Five Nights with Barsik
+|Icon               = [[File:FNwB v2.3.16 icon.png|100px]]
+|Image              = FNwB v2.3.16 main menu.png
+|Announcement date  = April 7, 2015
+|Release date       = August 10, 2015
+|2.0 release date   = April 2, 2017
+|Developers         = [[Deflecta]], [[P4shtet]], [[GKProduction]]
+|Engine             = Clickteam Fusion 2.5
+|Genre              = Survival horror
+|OS                 = Windows, Android
+|Publishers         = [[Deflecta]], [[Other Games Production]]
+|Voice actors       = [[GKProduction]], [[Zodli]]
+|Fandom wikis       = * [https://five-nights-with-barsik.fandom.com/wiki/ English wiki];
+* [https://five-nights-with-barsik.fandom.com/ru/wiki/ Russian wiki].
+|Game Jolt community = https://gamejolt.com/c/fnwbarsik-uzhyfv
+|Game Jolt page     = https://gamejolt.com/games/fnwb/653514
+|VK community       = https://vk.com/universeofcats
+|Previous           = [[One Night with Kotya]]
+|Next               = [[Five Nights with Barsik 2]]
+}}'''Five Nights with [[Barsik]]''' (abbreviated as '''FNw[[Barsik|B]]''', in Russian '''Пять ночей с [[Barsik|Барсиком]]''' and '''ПНС[[Barsik|Б]]''', pronounced as '''Pyat nochey s [[Barsik|Barsikom]]''' and '''PNS[[Barsik|B]]''', <small>formerly known as ''Five Nights at [[Barsik|Barsik's]]'' and ''FNa[[Barsik|B]]''</small>) is a video game conceived by [[P4shtet]], inspired by the [[Five Nights at Freddy's series|Five Nights at Freddy's]], and developed by [[Deflecta]]. Originally, the development was handled by [[P4shtet]], but since 2017, the rights were transferred to [[Deflecta]]. FNwB tells the story of events happening to the main character [[Antonio]]. It is the first installment in the [[Five Nights with Barsik trilogy|FNwB trilogy]] and currently the only one presented in a good state—[[Five Nights with Barsik series|the two subsequent entries]] have not yet received major [[2.0 updates|updates]].
+
+== Gameplay ==
+[[Antonio|Player]] must survive seven nights, after which they move to a new house. Each night features different antagonists. In the first night, [[Diamond Barsik]] and [[Teddy Bear]] are active. Second night introduces [[Dogy]]. The third night brings [[Barsik]]. On the fourth night appears [[Matilda]], and on the fifth night [[Yellow Cat]] makes an appearance. Each night, [[Genndy]] calls [[Antonio]] to advise on how to fend off the enemies.
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+
+== Plot ==
+<div class="mw-collapsible-content">
+There are two versions of the plot, corresponding to different versions of FNwB.
+
+Initially, FNwB did not have a clear plot, as it had very poor presentation: bad English translation, random unconnected scenes. But in the [[Five Nights with Barsik 2.0 update|2.0 update]], the plot and its delivery were improved, making FNwB more player-friendly and more logical. Unfortunately, this did not fix many plot holes that existed and appeared afterward. Currently, the [[Five Nights with Barsik 3.0 update|3.0 update]] is planned, and it is expected to bring further improvements.
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Show" data-collapsetext="Hide" style="width:100%;">
+=== Version 1.x plot ===
+<div class="mw-collapsible-content">
+In this version, the events revolve around a character named [[Pavel]]. He lived in his house for five years, and then, after a year, notices the appearance of two animals and two toys that are trying to kill him. After consulting a psychologist, he agrees to install security cameras. [[Pavel]] is given a [[Freddy Fazbear Mask|Freddy Fazbear mask]], after which he is told to survive in the house every night until 6 AM. Every night, an unknown person calls him, presumably an employee of the company, who encourages him and tells scary stories. After the fifth night, the [[Psychological Company]] congratulates [[Pavel]] on surviving, warning him not to burn down the house; after the 6th night, the case is declared closed, and after the seventh night, [[Pavel]] burns down the house, finds a new home, and notices that two cats escaped the fire.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== Version 2.x plot ===
+<div class="mw-collapsible-content">
+
+==== Before FNwB events ====
+[[Antonio]] has been living in his secluded house for several years, away from urban hustle and troubles. However, on one peaceful day, he discovers that stray cats have appeared in his house. Unable to deal with the animals, Antonio contacts the [[Psychological Company]], thinking he is going crazy.
+
+==== During FNwB events ====
+[[Antonio]] has telephone conversations with a representative of the [[Psychological Company]]. The company becomes convinced that his concerns are justified and arranges with him to conduct sleepless nights to collect data. During the nights, he receives calls from an employee named [[Genndy]], who not only instructs him but also starts to propose theories about the root cause of the appearance of cats and robots in the house. After the fourth night, one of the employees wonders why [[Genndy|Doc]] cannot remove all the cats, sparing [[Antonio]] the necessity of surviving among them. At the end of the fifth night, [[Antonio]] is attacked by the mother of the kitten [[Barsik]], the cat [[Matilda]], who manages to wound his arm, after which he sits and reflects on why he was not killed. After the fifth night, the [[Psychological Company]] congratulates him on surviving and asks him not to burn down the house; after the sixth night, the case is declared closed, and after the seventh night, [[Antonio]] sets the house on fire, presumably to destroy all cats and toys. He leaves the house, after which firefighters and [[Genndy]] arrive at the fire site, with the latter beginning to suspect [[Antonio]] of arson. In the end, the protagonist finds a new home, and the cats apparently escaped the fire.
+
+==== Endings ====
+After the [[Five Nights with Barsik fifth night|fifth night]], [[Antonio]] is told to hold on for two more nights. But he must not burn the house, run away, or hide.
+
+After the [[Five Nights with Barsik sixth night|sixth night]], [[Antonio]] is going to be relocated to [[Alexander Kazakov in Five Nights with Barsik universe|Alexander Kazakov's]] house, if he doesn't mind.
+
+After the [[Five Nights with Barsik seventh night|seventh night]], [[Antonio]] burns down the house and finds a new one. But the cats escaped.
+
+<gallery>
+FNwB ending after fifth night.png|[[Five Nights with Barsik fifth night|Fifth night]] ending
+FNwB ending after sixth night.png|[[Five Nights with Barsik sixth night|Sixth night]] ending
+FNwB ending after seventh night.png|[[Five Nights with Barsik seventh night|Seventh night]] ending
+</gallery>
+</div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== Characters ===
+<div class="mw-collapsible-content">
+
+==== Positive ====
+* [[Alexander Kazakov in Five Nights with Barsik universe|Alexander Kazakov]]
+* [[Antonio]],
+* [[Psychological Company]],
+** [[Genndy]].
+
+==== Neutral ====
+* [[Fazcat]],
+* [[Gray Person]],
+* [[Maxim Rakintsev in Five Nights with Barsik universe|Maxim Rakintsev]],
+* [[Mecha-Kotya]],
+* [[Shadow Barsik]],
+* [[Shadow Figure]],
+* [[Virsus]].
+
+==== Antagonists ====
+* [[Barsik]],
+* [[Diamond Barsik]],
+* [[Dogy]],
+* [[Matilda]],
+* [[Teddy Bear]],
+* [[Yellow Cat]].
+</div></div>
+</div></div>
+
+== Title ==
+Initially, before the rights were transferred to [[Deflecta]], FNwB was released under the title ''Five Nights at Barsik's''. After the [[Five Nights with Barsik 2.0 Update|2.0 update]], Russian language was added to FNwB, and it received the Russian title "Пять Ночей у Барсика" (note the capitalized "Ночей"). It remained under this title for some time until, for unknown reasons, the English title was changed to "Five Nights at Barsik". Eventually, both titles were corrected: the English became "Five Nights with Barsik," and the Russian became "Пять ночей с Барсиком".
+
+== History ==
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2015 ===
+<div class="mw-collapsible-content">
+
+==== April ====
+* [[P4shtet]], inspired by [[Five Nights at Freddy's series|Five Nights at Freddy's]], decided to create a similar game about his kitten named Barsik titled "Five Nights At Barsik's".
+* The development of FNwB began on April 9 at 11:09. At 18:05, the FNwB community on VK was created under the name "Five Nights At Barsik's|Пять Ночей С Барсиком". [[P4shtet]] immediately started looking for [[Zodli|someone to voice]] the [[Genndy|phone guy]]. At 18:13, [[Kirill Shklyarevsky]] offered his candidacy for voice acting, and [[P4shtet]] accepted him as a test voice actor.
+<gallery>
+April 9, 2015 18 05.jpg|''“The game is coming! Menu in Clickteam Fusion 2.5 is in development. Stay tuned! :3”''
+</gallery>
+* On April 19 at 9:04, [[P4shtet]] finished making the camera rotation in the game. At 17:14, [[P4shtet]] announced that [[Kirill Shklyarevsky|Kirill's]] microphone broke and he needed a new voice actor.
+* On April 20 at 18:47, [[Zodli]] offered his candidacy for voice acting.
+* On April 21 at 16:13, [[P4shtet]] accepted him. At 16:14, [[P4shtet|he]] announced the voice actor was found.
+* On April 24 at 9:23, [[P4shtet]] announced that game updates would be posted on his [[X]] profile. At 9:34, [[P4shtet|he]] asked the subscribers of the game's VK community how to distribute the game: via [[Game Jolt]] or [[Yandex Disk]]. The [[Game Jolt]] option won.
+* On April 26 at 12:34, a game page was created on [[Game Jolt]], which is currently abandoned.
+* On April 27 at 17:32, [[P4shtet]] announced that because he only had a demo version of Clickteam Fusion 2.5, not the full version, he could not continue developing the game, and he asked subscribers to give him the full version.
+* On April 28, game tester [[MaksFred]] created an account on [[X]], and at 10:57, [[P4shtet]] shared [https://x.com/MaksSchmidt228 a link] to it with subscribers to support his tester.
+* On April 28 at 11:27, [[P4shtet]] published the first teaser for the game.
+<gallery>
+youcantbeathe April 28, 2015 11 27.png|''"For now, the game is under development, I'll throw a teaser at you."''
+</gallery>
+* On April 29 at 10:59, [[P4shtet]] announced that he had received the full version of Clickteam Fusion 2.5 from [[MaksFred]].
+<gallery>
+April 3, 2015 10 59.jpg|''"Finally, [[Clickteam Fusion 2.5 Developer|Clickteam Fusion 2.5 full version]] obtained from [[MaksFred|Maxim Schmidt]]! His name will appear in the game menu. Thanks everyone for your attention."''
+</gallery>
+* On April 29 at 17:06, [[P4shtet]] published the second teaser for the game.
+<gallery>
+themwillbecankill April 29, 2015 17 06.png|''"New FNaB teaser."''
+</gallery>
+
+==== May ====
+* On May 10 at 9:56, [[P4shtet]] announced that he had improved the main menu of the game and added [[wikipedia:Easter egg (virtual)|easter eggs]] to it.
+* On May 18 at 12:07, [[P4shtet]] shared a gameplay screenshot with subscribers.
+* On May 24, [[P4shtet]] published an alpha version of the game on [[Game Jolt]].
+
+==== June ====
+* On June 3, a second community for the game was created on VK titled "Five Nights At Barsik'/Пять ночей с Барсиком".
+* On June 4, a teaser trailer for the game was released (now deleted).
+
+==== July ====
+* On July 27, [[P4shtet]], along with [[Maximus Games]], founded a video game development team called [[Smart Games Team]], which became a new center for news about the game and its discussion. A little later, the team's VK community was created.
+
+==== August ====
+* On August 10, the official release of the game took place.
+
+==== November ====
+* In November, the game development did not progress, as [[P4shtet]] considered it complete and was developing [[Five Nights with Barsik 3|the third game]].
+* On November 15, the game was located on the saga page: http://gamejolt.com/games/five-nights-at-barsik-s-offical-saga/92526#.
+* Later, a [https://gamejolt.com/games/fnwbarchive/188928 FNwB games collection page] was created on [[Game Jolt]].
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2016 ===
+<div class="mw-collapsible-content">
+* This year, the game development did not progress, as [[P4shtet]] was developing [[Five Nights with Barsik 4|the fourth game]] and [[Galaxy Cat Warrior]].
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2017 ===
+<div class="mw-collapsible-content">
+* In 2017, the rights to the game were transferred to [[Deflecta]], who began developing the [[Five Nights with Barsik 2.0 update|version 2.0]].
+
+==== April ====
+* April 2: update 2.0 was released, as well as the first mobile version of the game.
+* April 3: updates 2.0.1, 2.0.2 were released.
+* April 4: updates 2.0.3, 2.0.4 were released.
+* April 7: updates 2.0.5, 2.0.6 were released.
+* April 12: update 2.0.7 was released.
+
+==== May ====
+* May 13: update 2.0.8 was released.
+* ?? May-June: updates 2.0.9, 2.0.10, 2.0.11, 2.0.12, 2.0.13, 2.0.14, 2.0.15, 2.0.16 were released.
+
+==== June ====
+* June 17: the game was released on Google Play.
+* June 21: update 2.0.17 was released.
+* June 28: update 2.0.19 was released.
+
+==== July ====
+* July 7: update 2.1 was released.
+* July 22: update 2.1.23 was released.
+* July 29: update 2.1.31 was released.
+
+==== September ====
+* September 20: update 2.1.41 for Android was released.
+* September 23: update 2.1.41 for PC was released.
+
+==== October ====
+* ?? October-November: updates 2.2, 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.2.5 were released.
+
+==== November ====
+* November 2: update 2.2.6 was released.
+* November 3: update 2.2.9 was released.
+* November 4: update 2.2.10 was released.
+* ? November: update 2.2.11 was released.
+* November 20: update 2.2.12 was released.
+* November 22: update 2.2.13 was released.
+* November 27: update 2.3 was released.
+
+==== December ====
+* December 29: update 2.3.1 was released.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2018 ===
+<div class="mw-collapsible-content">
+
+==== February ====
+* February 10: update 2.3.2 was released.
+* February 11: update 2.3.3 was released.
+
+==== March ====
+* March 20: update 2.3.4 was released.
+
+==== April ====
+* April 1: update 2.3.4.420 was released.
+
+''After a significant time, the game was blocked by Google and removed from Google Play.''
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2020 ===
+<div class="mw-collapsible-content">
+
+==== October ====
+* October 17: the [https://gamejolt.com/games/fnwbarchive/188928 FNwB games collection page] became an archive of old games in the series, and ''FNwB'' was removed from it due to the announcement of the global 3.0 update from [[Deflecta]], which plans to redesign the game and re-publish it on Google Play.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2021 ===
+<div class="mw-collapsible-content">
+
+==== January ====
+* January 8: [[Deflecta]] resumed supporting the game with [[Five Nights with Barsik 2.x update line|updates]] (while developing 3.0) and released update 2.3.5, bringing the game back to the page. On the same day, development of update 2.3.6 began.
+* January 9: updates 2.3.6, 2.3.7, 2.3.8, and 2.3.9 were released.
+* January 10: update 2.3.10 was released.
+* January 15: update 2.3.11 was released, Android testing began — the game became cross-platform.
+* January 18: in the VK community, a list of changes for updates from 2.3.5 to 2.3.11 was published, and an anthology was announced, which will include [[Five Nights with Barsik 3.0 update|FNwB 3.0]].
+* January 27: update 2.3.12 was released.
+
+==== February ====
+* February 7: updates 2.3.13 and 2.3.14 were released; in 2.3.14, one of the oldest and most hated bugs that prevented completion of the 7th night was fixed.
+* February 8: update 2.3.15 was released.
+* February 14: update 2.3.16 was released.
+* February 18: update 2.4 was indirectly announced.
+
+==== October ====
+* October 7: [[Deflecta]] announced the cancellation of the [[Five Nights with Barsik 3.0 update|3.0 update (previously "2.4 update")]] and the [[Five Nights with Barsik anthology|anthology]], announcing the [[Five Nights with Barsik reboot|FNwB reboot]].
+* October 16: on [[Deflecta|Deflecta's]] profile on [[Game Jolt]], a new game page appeared — the [[Five Nights with Barsik Saga|saga page]] was renamed to archive, and it was directly revealed that the next update would be the [[Five Nights with Barsik 3.0 update|2.4 update]].
+
+==== November ====
+* November 4: [[FNwB FAQ]] was published with answers to numerous questions.
+</div></div>
+<div class="mw-collapsible mw-collapsed" data-expandtext="Open" data-collapsetext="Close" style="width:100%;">
+
+=== 2024 ===
+<div class="mw-collapsible-content">
+
+==== September ====
+* September 9: a new report on the state of the game was published on [[VK]]. It was announced that the development of the [[Five Nights with Barsik reboot|remake]] continues, the [[Five Nights with Barsik anthology|anthology]] is canceled, [[Five Nights with Barsik series|all games]] will be released separately, and also there is an opportunity to remake the game on a [[GameMaker|new engine]] for returning to [[Google Play]]. This marked the beginning of the development of the [[Five Nights with Barsik 3.0 update|3.0 update]] for FNwB.
+</div></div>
+
+== Trivia ==
+* In 2017, [[P4shtet's Five Nights with Barsik reboot|P4shtet attempted to reboot the series]], but quickly lost the desire to work on it due to development difficulties.
+
+[[ru:Пять ночей с Барсиком]]
+
+[[Category:Computer games in the Five Nights with Barsik series]]
+[[Category:Computer games]]
+[[Category:Five Nights with Barsik computer game series]]
+[[Category:Five Nights with Barsik computer games]]
+[[Category:Five Nights with Barsik game series]]
+[[Category:Five Nights with Barsik games with male playable character]]
+[[Category:Five Nights with Barsik games with male protagonist]]
+[[Category:Five Nights with Barsik series computer games]]
+[[Category:Five Nights with Barsik series games]]
+[[Category:Five Nights with Barsik series video games]]
+[[Category:Five Nights with Barsik series]]
+[[Category:Five Nights with Barsik video game series]]
+[[Category:Five Nights with Barsik video games with male playable character]]
+[[Category:Five Nights with Barsik video games with male protagonist]]
+[[Category:Five Nights with Barsik video games]]
+[[Category:Five Nights with Barsik]]
+[[Category:Games by Other Games Production]]
+[[Category:Games by P4shtet]]
+[[Category:Games by Smart Games Team]]
+[[Category:Games developed by Deflecta]]
+[[Category:Games released by P4shtet]]
+[[Category:Games with male playable character]]
+[[Category:Games with male protagonist]]
+[[Category:Games]]
+[[Category:Other Games Production games]]
+[[Category:Other Games Production video games]]
+[[Category:Other Games Production]]
+[[Category:P4shtet games]]
+[[Category:P4shtet video games]]
+[[Category:Smart Games Team games]]
+[[Category:Smart Games Team video games]]
+[[Category:Smart Games Team]]
+[[Category:Video games by Other Games Production]]
+[[Category:Video games by P4shtet]]
+[[Category:Video games by Smart Games Team]]
+[[Category:Video games with male playable character]]
+[[Category:Video games with male protagonist]]
+[[Category:Video games]]

@@ -1,0 +1,42 @@
+__NOTOC__ __NOEDITSECTION__
+<!-- Beginning of left column -->
+<mainpage-leftcolumn-start />
+<div style="text-align: center; font-size: x-large; padding: 1em;">'''Welcome to the One Night with Kotya and Five Nights with Barsik Series Wiki!'''</div>
+Welcome to the official wiki for the [[:Category:Five Nights with Barsik series games|Five Nights with Barsik series games]] and everything related to it! If you’d like to help add useful content, go ahead—administrators will tidy up any missteps.
+
+The [[Five Nights with Barsik update 3.0|update 3.0]] for [[Five Nights with Barsik]] is currently in development.
+<center><h2>Game series</h2></center>
+Five Nights with Barsik series, from the first to the latest entry:
+* [https://gamejolt.com/games/fnwb/653514 '''Download'''] ''[[Five Nights with Barsik]]'';
+* [https://gamejolt.com/games/fnwbold/188928 '''Download'''] ''[[Five Nights with Barsik 2]]'';
+* [https://gamejolt.com/games/fnwbold/188928 '''Download'''] ''[[Five Nights with Barsik 3]]'';
+* ''[[Five Nights with Barsik 4]] in development'';
+* ''[[Five Nights with Barsik reboot]] in development''.  
+One Night with Kotya series, from the first to the latest entry:
+* [https://gamejolt.com/games/onak/202443 '''Download'''] ''[[One Night with Kotya]]'';
+* [https://gamejolt.com/games/onak/202443 '''Download'''] ''[[One Night with Kotya 2]]'';
+* [https://gamejolt.com/games/onak/202443 '''Download'''] ''[[One Night with Kotya 3]]'';
+* [https://gamejolt.com/games/onak/202443 '''Download'''] ''[[One Night with Kotya 4]]''.
+<center><h2>Information</h2></center>
+<div class="main-info" style="display: flex; justify-content: center;"><div class="main-info-block">
+''The saga began in August 2015 with the release of the first game.''<br>
+''Five Nights with Barsik v2.3 is the latest and most content-rich entry in the series.''<br>
+''Since 2017, development has been handled by [[Deflecta]], not the original creator.''<br>
+''All games are built with [https://www.clickteam.com/clickteam-fusion-2-5 Clickteam Fusion 2.5].''
+</div></div>
+<center><h2>Links</h2></center>
+* [https://vk.com/fivenightswithbarsik The game’s community on VK];
+* [https://gamejolt.com/@Rushan The developer’s Game Jolt page];
+* [https://vk.com/rushandev The developer’s VK page];
+* Series concept by [[P4shtet]].
+<mainpage-endcolumn />
+<!-- End of left column -->
+
+<!-- Beginning of right column -->
+<mainpage-rightcolumn-start /><mainpage-endcolumn />
+<!-- End of right column -->
+
+[[ru:Вики серий «Одна ночь с Котей» и «Пять ночей с Барсиком»]]
+
+[[Category:Service pages]]
+[[Category:Special pages]]
