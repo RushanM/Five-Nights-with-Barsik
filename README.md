@@ -2,9 +2,10 @@ This document is available in the following languages: [Russian (ru-ru)](/README
 
 # Five Nights with Barsik
 
-This repository contains assets from the "Five Nights with Barsik" video game for free use in wikis, badges, fan games, and other projects.
 
-If you don't mind, please include a link to the source (this repository) when using these materials.
+This repository contains assets from the video game "Five Nights with Barsik" for free use in wikis, badges, fan games, and other projects.
+
+If possible, please include a link to the source (this repository) when using these materials.
 
 ---
 
@@ -14,18 +15,19 @@ You are Antonio. One night, you notice unknown stray cats and robotic toys in yo
 
 ---
 
-* [Wiki 📚](/wiki/)
-* [Localizations 🌐](/langs/)
 * [Changelogs 📋](/changelogs/)
+* [Documentation 📖](/docs/)
+* [Localizations 🌐](/langs/)
 * [Sprites 👾](/sprites/)
+* [Wiki 📚](/wiki/)
 
 ---
 
 ## Authors
 
-* **Rushan "Deflecta" Mukhutdinov**: developer and writer from version 2.0
+* **Rushan "Deflecta" Mukhutdinov**: developer and writer since version 2.0
 * **Pavel "P4shtet" Shakhmatov**: creator, photographer, artist, developer until version 2.0
-* **Gleb "GKProduction" Kapustin**: Russian voice actor for Genndy, also helped with development, assets, and motivation
+* **Gleb "GKProduction" Kapustin**: Russian voice actor for Genndy, also helped with development, some assets, and motivation
 * **Matvey "Barsik" Lebedev**: motivator
 * **Sallo666**: tester
 * **Yuri "Zodli" Grachyov**: English voice actor

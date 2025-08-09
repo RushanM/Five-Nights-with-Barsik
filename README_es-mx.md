@@ -4,20 +4,21 @@ Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/READM
 
 Este repositorio contiene recursos del videojuego "Cinco Noches con Barsik" para uso libre en wikis, insignias, juegos de fans y otros proyectos.
 
-Por favor, si no es molestia, al utilizar estos materiales, incluya un enlace a la fuente (este repositorio).
+Si es posible, al utilizar estos materiales, incluya un enlace a la fuente (este repositorio).
 
 ---
 
 ## Descripción del Juego
 
-Eres Antonio. Una noche, notas gatos callejeros desconocidos y juguetes robotizados en tu casa. Después de fracasar en expulsarlos, buscas ayuda de PsyCo —una empresa fundada por psicólogos que estudian fenómenos paranormales. Ahora todos —tú, los gatos y los juguetes— son parte de un importante experimento supervisado por Genndy, un empleado de PsyCo. Debes sobrevivir cinco noches infernales con estos invasores sedientos de sangre.
+Eres Antonio. Una noche, notas gatos callejeros desconocidos y juguetes robóticos en tu casa. Tras no poder expulsarlos, buscas ayuda de PsyCo, una empresa fundada por psicólogos que estudian fenómenos paranormales. Ahora todos —tú, los gatos y los juguetes— forman parte de un importante experimento supervisado por Genndy, uno de los empleados de PsyCo. Debes sobrevivir cinco noches infernales con estos invasores sedientos de sangre.
 
 ---
 
-* [Wiki 📚](/wiki/)
+* [Documentación 📖](/docs/)
 * [Localizaciones 🌐](/langs/)
 * [Registros de cambios 📋](/changelogs/)
 * [Sprites 👾](/sprites/)
+* [Wiki 📚](/wiki/)
 
 ---
 
@@ -25,7 +26,7 @@ Eres Antonio. Una noche, notas gatos callejeros desconocidos y juguetes robotiza
 
 * **Rushan "Deflecta" Mukhutdinov**: desarrollador y escritor desde la versión 2.0
 * **Pavel "P4shtet" Shakhmatov**: creador, fotógrafo, artista, desarrollador hasta la versión 2.0
-* **Gleb "GKProduction" Kapustin**: actor de voz ruso para Genndy, también ayudó con el desarrollo, recursos y motivación
+* **Gleb "GKProduction" Kapustin**: actor de voz ruso de Genndy, también ayudó con el desarrollo, algunos recursos y motivación
 * **Matvey "Barsik" Lebedev**: motivador
 * **Sallo666**: probador
 * **Yuri "Zodli" Grachyov**: actor de voz inglés
