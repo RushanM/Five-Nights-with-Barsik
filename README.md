@@ -6,7 +6,7 @@ This document is available in the following languages: [Russian (ru-ru)](/docs/R
 
 This repository contains parts of the source code of the video game "Five Nights with Barsik", its changelogs, documentation, localization files, and other assets for free use (within the terms of the licenses) on wikis, video thumbnails, in fan games, for creating your own modifications (forks) of the game, and other places.
 
-Please, when using materials from here, [mention the authorship](/docs/ATTRIBUTION_en-us.md).
+Please, when using materials from here, [mention the authorship](/docs/ATTRIBUTION.md).
 
 ---
 
