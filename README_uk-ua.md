@@ -1,8 +1,8 @@
 Цей документ доступний наступними мовами: [російська (ru-ru)](/README_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/README.md), [бразильська португальська (pt-br)](/README_pt-br.md), [мексиканська іспанська (es-mx)](/README_es-mx.md).
 
-<div style="text-align:center">
-    <img src="/sprites/repo_icon_uk-ua.png" alt="Repository icon" />
-</div>
+<p align="center">
+  <img src="./sprites/repo_icon_uk-ua.png" alt="Repository icon" width="200" />
+</p>
 
 Цей репозиторій містить ассети відеогри «П'ять ночей з Барсіком» для вільного використання на вікі, значках, у фанатських іграх та інших проєктах.
 
