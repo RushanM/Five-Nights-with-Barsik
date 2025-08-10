@@ -6,7 +6,7 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/RE
 
 Este repositório contém partes do código-fonte do videogame "Cinco Noites com Barsik", seus changelogs, documentação, arquivos de localização e outros recursos para uso livre (dentro dos termos das licenças) em wikis, miniaturas de vídeos, jogos de fãs, para criar suas próprias modificações (forks) do jogo e outros lugares.
 
-Por favor, ao utilizar materiais daqui, [mencione a autoria](/ATTRIBUTION_ru-ru.md).
+Por favor, ao utilizar materiais daqui, [mencione a autoria](/docs/ATTRIBUTION_ru-ru.md).
 
 ---
 
