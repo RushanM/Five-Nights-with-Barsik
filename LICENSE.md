@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-ru)](/LICENSE_ru-ru.md), [Ukrainian (uk-ua)](/LICENSE_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/LICENSE_pt-br.md), [Mexican Spanish (es-mx)](/LICENSE_es-mx.md).
+This document is available in the following languages: [Russian (ru-ru)](/docs/LICENSE_ru-ru.md), [Ukrainian (uk-ua)](/docs/LICENSE_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/docs/LICENSE_pt-br.md), [Mexican Spanish (es-mx)](/docs/LICENSE_es-mx.md).
 
 # MIT License
 

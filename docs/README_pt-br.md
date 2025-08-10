@@ -4,9 +4,9 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/README_
   <img src="./sprites/repo_icon_pt-br.png" alt="Repository icon" width="200" />
 </p>
 
-Este repositório contém recursos do jogo "Cinco Noites com Barsik" para uso livre em wikis, emblemas, jogos de fãs e outros projetos.
+Este repositório contém partes do código-fonte do videogame "Cinco Noites com Barsik", seus changelogs, documentação, arquivos de localização e outros recursos para uso livre (dentro dos termos das licenças) em wikis, miniaturas de vídeos, jogos de fãs, para criar suas próprias modificações (forks) do jogo e outros lugares.
 
-Se possível, ao utilizar estes materiais, inclua um link para a fonte (este repositório).
+Por favor, ao utilizar materiais daqui, [mencione a autoria](/ATTRIBUTION_ru-ru.md).
 
 ---
 
@@ -16,11 +16,11 @@ Você é Antonio. Em uma noite, percebe gatos de rua desconhecidos e brinquedos 
 
 ---
 
+* [Arquivo Wiki 📚](/wiki/)
 * [Documentação 📖](/docs/)
 * [Localizações 🌐](/langs/)
 * [Registros de Alterações 📋](/changelogs/)
 * [Sprites 👾](/sprites/)
-* [Wiki 📚](/wiki/)
 
 ---
 
@@ -35,3 +35,13 @@ Você é Antonio. Em uma noite, percebe gatos de rua desconhecidos e brinquedos 
 * **Maxim "MaksFred" Pidenko**: testador
 * **Other Games Production**: suporte
 * **Smart Games Team**: suporte
+
+---
+
+## Links Externos
+
+* [Jogo no GameJolt](https://gamejolt.com/games/fnwb/653514)
+* [Wiki do Jogo](https://five-nights-with-barsik.fandom.com/ru/wiki/Вики_серий_«Одна_ночь_с_Котей»_и_«Пять_ночей_с_Барсиком»)
+* [Comunidade VK do Jogo](https://vk.com/fivenightswithbarsik)
+* [Jogo no Trashbox](https://trashbox.ru/link/pyat-nochej-u-barsika-android)
+* [Jogo no Google Play (atualmente oculto)](https://play.google.com/store/apps/details?id=ru.deflecta.fnwb)

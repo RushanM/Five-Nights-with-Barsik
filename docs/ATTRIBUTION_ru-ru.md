@@ -1,8 +1,10 @@
+Этот документ доступен на следующих языках: **русский (ru-ru)**, [украинский (uk-ua)](/docs/ATTRIBUTION_uk-ua.md), [американский английский (en-us)](/docs/ATTRIBUTION_en-us.md), [португальский бразильский (pt-br)](/docs/ATTRIBUTION_pt-br.md), [мексиканский испанский (es-mx)](/docs/ATTRIBUTION_es-mx.md).
+
 # Образцы упоминаний
 
 Если вы используете любую часть кода или ассетов из репозитория «Пяти ночей с Барсиком», пожалуйста, упомяните авторство.
 
-> Примечание: код распространяется под лицензией MIT (прочтите [LICENSE_ru-ru.md](/LICENSE_ru-ru.md/)), ассеты — под Creative Commons Attribution 4.0 (прочтите [ASSETS_LICENSE_ru-ru.md](/ASSETS_LICENSE_ru-ru.md/)).
+> Примечание: код распространяется под лицензией MIT (прочтите [LICENSE_ru-ru.md](/docs/LICENSE_ru-ru.md)), ассеты — под Creative Commons Attribution 4.0 (прочтите [ASSETS_LICENSE_ru-ru.md](/docs/ASSETS_LICENSE_ru-ru.md)).
 
 Здесь перечислены образцы упоминаний об использовании частей проекта, которые вы можете использовать для указания в своих проектах, использующих что-то из «Пяти ночей с Барсиком».
 
