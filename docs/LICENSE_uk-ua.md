@@ -1,3 +1,5 @@
+Цей документ доступний наступними мовами: [російська (ru-ru)](/LICENSE_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/LICENSE_en-us.md), [бразильська португальська (pt-br)](/LICENSE_pt-br.md), [мексиканська іспанська (es-mx)](/LICENSE_es-mx.md).
+
 # Ліцензія MIT
 
 Copyright © 2025 Deflecta

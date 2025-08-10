@@ -1,7 +1,7 @@
 Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/README_ru-ru.md), [Ucraniano (uk-ua)](/README_uk-ua.md), [Inglés Americano (en-us)](/README.md), [Portugués Brasileño (pt-br)](/README_pt-br.md), **Español Mexicano (es-mx)**.
 
 <p align="center">
-  <img src="./sprites/repo_icon_es-mx.png" alt="Repository icon" width="200" />
+  <img src="/sprites/repo_icon_es-mx.png" alt="Repository icon" width="200" />
 </p>
 
 Este repositorio contiene partes del código fuente del videojuego "Cinco Noches con Barsik", sus registros de cambios, documentación, archivos de localización y otros recursos para uso libre (dentro de los términos de las licencias) en wikis, miniaturas de videos, juegos de fans, para crear tus propias modificaciones (forks) del juego y otros lugares.
