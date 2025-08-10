@@ -1,10 +1,10 @@
 This document is available in the following languages: [Russian (ru-ru)](/README_ru-ru.md), [Ukrainian (uk-ua)](/README_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/README_pt-br.md), [Mexican Spanish (es-mx)](/README_es-mx.md).
 
-<center>
+<div style="text-align:center">
 
 ![Repository icon](/sprites/repo_icon.png)
 
-</center>
+</div>
 
 This repository contains assets from the video game "Five Nights with Barsik" for free use in wikis, badges, fan games, and other projects.
 
