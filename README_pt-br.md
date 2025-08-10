@@ -1,6 +1,8 @@
 Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/README_ru-ru.md), [Ucraniano (uk-ua)](/README_uk-ua.md), [Inglês Americano (en-us)](/README.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/README_es-mx.md).
 
-# Cinco Noites com Barsik
+<p align="center">
+  <img src="./sprites/repo_icon_pt-br.png" alt="Repository icon" width="200" />
+</p>
 
 Este repositório contém recursos do jogo "Cinco Noites com Barsik" para uso livre em wikis, emblemas, jogos de fãs e outros projetos.
 
