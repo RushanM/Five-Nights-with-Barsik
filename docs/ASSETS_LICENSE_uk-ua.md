@@ -1,4 +1,4 @@
-Цей документ доступний наступними мовами: [російська (ru-ru)](/ASSETS_LICENSE_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/ASSETS_LICENSE_en-us.md), [бразильська португальська (pt-br)](/ASSETS_LICENSE_pt-br.md), [мексиканська іспанська (es-mx)](/ASSETS_LICENSE_es-mx.md).
+Цей документ доступний наступними мовами: [російська (ru-ru)](/docs/ASSETS_LICENSE_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/docs/ASSETS_LICENSE_en-us.md), [бразильська португальська (pt-br)](/docs/ASSETS_LICENSE_pt-br.md), [мексиканська іспанська (es-mx)](/docs/ASSETS_LICENSE_es-mx.md).
 
 # Міжнародна публічна ліцензія Creative Commons Attribution 4.0
 
