@@ -20,15 +20,7 @@ buildscript {
         //AllBuildRepos
     }
     dependencies {
-        if(BUILD_API.toInteger() >= 30 && BUILD_USE_11.toBoolean())
-        {
-            classpath 'com.android.tools.build:gradle:8.0.0'
-        }
-        else
-        {
-            classpath 'com.android.tools.build:gradle:4.2.1'
-        }
-        //Dependencies
+        classpath 'com.android.tools.build:gradle:8.11.0'
     }
 }
 
