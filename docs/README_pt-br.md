@@ -1,4 +1,4 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/README_ru-ru.md), [Ucraniano (uk-ua)](/docs/README_uk-ua.md), [Inglês Americano (en-us)](/docs/README_en-us.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/README_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/README_ru-ru.md), [Ucraniano (uk-ua)](/docs/README_uk-ua.md), [Inglês Americano (en-us)](/README.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/README_es-mx.md).
 
 <p align="center">
   <img src="/sprites/repo_icon_pt-br.png" alt="Repository icon" width="200" />

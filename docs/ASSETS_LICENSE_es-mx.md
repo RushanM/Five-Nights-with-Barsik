@@ -1,4 +1,4 @@
-Este documento está disponible en los siguientes idiomas: [ruso (ru-ru)](/docs/ASSETS_LICENSE_ru-ru.md), [ucraniano (uk-ua)](/docs/ASSETS_LICENSE_uk-ua.md), [inglés estadounidense (en-us)](/docs/ASSETS_LICENSE_en-us.md), [portugués brasileño (pt-br)](/docs/ASSETS_LICENSE_pt-br.md), **español mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [ruso (ru-ru)](/docs/ASSETS_LICENSE_ru-ru.md), [ucraniano (uk-ua)](/docs/ASSETS_LICENSE_uk-ua.md), [inglés estadounidense (en-us)](/ASSETS_LICENSE.md), [portugués brasileño (pt-br)](/docs/ASSETS_LICENSE_pt-br.md), **español mexicano (es-mx)**.
 
 # Licencia Pública Internacional Creative Commons Attribution 4.0
 

@@ -1,4 +1,4 @@
-Цей документ доступний наступними мовами: [російська (ru-ru)](/docs/LICENSE_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/docs/LICENSE_en-us.md), [бразильська португальська (pt-br)](/docs/LICENSE_pt-br.md), [мексиканська іспанська (es-mx)](/docs/LICENSE_es-mx.md).
+Цей документ доступний наступними мовами: [російська (ru-ru)](/docs/LICENSE_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/LICENSE.md), [бразильська португальська (pt-br)](/docs/LICENSE_pt-br.md), [мексиканська іспанська (es-mx)](/docs/LICENSE_es-mx.md).
 
 # Ліцензія MIT
 

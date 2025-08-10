@@ -1,4 +1,4 @@
-Цей документ доступний наступними мовами: [російська (ru-ru)](/docs/README_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/docs/README_en-us.md), [бразильська португальська (pt-br)](/docs/README_pt-br.md), [мексиканська іспанська (es-mx)](/docs/README_es-mx.md).
+Цей документ доступний наступними мовами: [російська (ru-ru)](/docs/README_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/README.md), [бразильська португальська (pt-br)](/docs/README_pt-br.md), [мексиканська іспанська (es-mx)](/docs/README_es-mx.md).
 
 <p align="center">
   <img src="/sprites/repo_icon_uk-ua.png" alt="Repository icon" width="200" />

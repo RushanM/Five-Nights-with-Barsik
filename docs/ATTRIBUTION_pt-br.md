@@ -1,4 +1,4 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/ATTRIBUTION_ru-ru.md), [Ucraniano (uk-ua)](/docs/ATTRIBUTION_uk-ua.md), [Inglês Americano (en-us)](/docs/ATTRIBUTION_en-us.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/ATTRIBUTION_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/ATTRIBUTION_ru-ru.md), [Ucraniano (uk-ua)](/docs/ATTRIBUTION_uk-ua.md), [Inglês Americano (en-us)](/ATTRIBUTION.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/ATTRIBUTION_es-mx.md).
 
 # Exemplos de Atribuição
 
