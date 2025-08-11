@@ -52,14 +52,14 @@ android {
             resValue "bool", "APP_DEBUG", "false"
             resValue "bool", "APP_SECURE", BUILD_AS_SECURE
             signingConfig signingConfigs.release
-            minifyEnabled false
+            minifyEnabled true
             if(BUILD_OBFUSCATE.toBoolean()==true)
                 proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
         debug {
             resValue "bool", "APP_DEBUG", "true"
             resValue "bool", "APP_SECURE", BUILD_AS_SECURE
-            minifyEnabled false
+            minifyEnabled true
         }
         //BuildTypes
     }
