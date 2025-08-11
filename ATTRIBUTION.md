@@ -4,7 +4,7 @@ This document is available in the following languages: [Russian (ru-ru)](/docs/A
 
 If you use any part of the code or assets from the "Five Nights with Barsik" repository, please attribute the authorship.
 
-> Note: the code is distributed under the MIT license (read [LICENSE.md](/LICENSE.md)), assets — under Creative Commons Attribution 4.0 (read [ASSETS_LICENSE.md](/ASSETS_LICENSE.md)).
+> Note: the code is distributed under the MIT license (read [LICENSE.md](/LICENSE.md)), assets—under Creative Commons Attribution 4.0 (read [ASSETS_LICENSE.md](/ASSETS_LICENSE.md)).
 
 Listed below are examples of attribution statements for using parts of the project, which you can include in your projects that use elements from "Five Nights with Barsik."
 
