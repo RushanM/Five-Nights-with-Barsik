@@ -54,20 +54,18 @@ android {
             signingConfig signingConfigs.release
             minifyEnabled true
             if(BUILD_OBFUSCATE.toBoolean()==true)
-                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            else
+                // правила для сохранения необходимых методов
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         debug {
             resValue "bool", "APP_DEBUG", "true"
             resValue "bool", "APP_SECURE", BUILD_AS_SECURE
             minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         //BuildTypes
-    }
-    lintOptions {
-        checkReleaseBuilds false
-        // Or, if you prefer, you can continue to check for errors in release builds,
-        // but continue the build even when errors are found:
-        abortOnError false
     }
     repositories {
         //add Repository
@@ -81,8 +79,12 @@ android {
             targetCompatibility = JavaVersion.VERSION_1_8
         }
     }
-    aaptOptions {
-        noCompress "ccn", "mp3", "wav", "mid", "ogg", "mp4", "m4v", "aac"
+    androidResources {
+        noCompress 'ccn', 'mp3', 'wav', 'mid', 'ogg', 'mp4', 'm4v', 'aac'
+    }
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
     }
     //AssetsPacks
 }
