@@ -103,7 +103,7 @@ antonio-to-psyco-7-halloween = Ah... Isso... Foi por medo, eu geralmente estou s
 
 ## Mensagem do Psyco
 
-psyco-mission = Olá novamente. Encontrarei você apenas após os testes noturnos. Precisamos entender exatamente o que está acontecendo em sua casa. Qual é a sua tarefa, você pergunta? É simples: instalamos câmeras por toda a sua casa, e você precisa observar se alguém aparece nelas. Também estaremos monitorando as câmeras. Infelizmente, algumas das câmeras podem não funcionar. E sim... Lembra daquela máscara? Use-a apenas em situações de emergência. Por exemplo, quando um deles entrar no seu quarto. Mas lembre-se: não é seguro usá-la por longos períodos. Ela pode conter toxinas restantes do caso anterior... Deixe-me lembrá-lo de suas próprias palavras: seus inimigos são brinquedos e gatos. Boa sorte!
+psyco-message = Olá novamente. Encontrarei você apenas após os testes noturnos. Precisamos entender exatamente o que está acontecendo em sua casa. Qual é a sua tarefa, você pergunta? É simples: instalamos câmeras por toda a sua casa, e você precisa observar se alguém aparece nelas. Também estaremos monitorando as câmeras. Infelizmente, algumas das câmeras podem não funcionar. E sim... Lembra daquela máscara? Use-a apenas em situações de emergência. Por exemplo, quando um deles entrar no seu quarto. Mas lembre-se: não é seguro usá-la por longos períodos. Ela pode conter toxinas restantes do caso anterior... Deixe-me lembrá-lo de suas próprias palavras: seus inimigos são brinquedos e gatos. Boa sorte!
 
 ## Tela de Abertura SGT
 

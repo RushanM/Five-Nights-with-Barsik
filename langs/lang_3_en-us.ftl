@@ -70,6 +70,8 @@ settings = Settings
 about = About
 exit = Exit Game
 
+its-me = IT'S ME
+
 ## Disclaimer
 
 disclaimer = This game contains potentially frightening jump scares, sudden loud noises, and flashing lights.
@@ -100,7 +102,7 @@ antonio-to-psyco-7-halloween = Oh... That... That was out of fear, I'm usually a
 
 ## Psyco's Message
 
-psyco-mission = Hello again. I'll meet with you only after the night trials. We need to understand exactly what's happening in your house. What's your task, you ask? It's simple: we've installed cameras throughout your house, and you need to watch if anyone appears on them. We'll also be monitoring the cameras. Unfortunately, some of the cameras might not work. And yes... Remember that mask? Wear it only in emergency situations. For example, when one of them enters your room. But keep in mind: it's not safe to wear it for long periods. It may contain toxins left from the previous case... Let me remind you of your own words: your enemies are toys and cats. Good luck!
+psyco-message = Hello again. I'll meet with you only after the night trials. We need to understand exactly what's happening in your house. What's your task, you ask? It's simple: we've installed cameras throughout your house, and you need to watch if anyone appears on them. We'll also be monitoring the cameras. Unfortunately, some of the cameras might not work. And yes... Remember that mask? Wear it only in emergency situations. For example, when one of them enters your room. But keep in mind: it's not safe to wear it for long periods. It may contain toxins left from the previous case... Let me remind you of your own words: your enemies are toys and cats. Good luck!
 
 ## SGT Splash Screen
 
