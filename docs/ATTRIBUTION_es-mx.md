@@ -4,8 +4,6 @@ Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/docs/
 
 Si utilizas cualquier parte del código o recursos del repositorio "Five Nights with Barsik", por favor menciona la autoría.
 
-> Nota: el código se distribuye bajo la licencia MIT (lee [LICENSE_es-mx.md](/docs/LICENSE_es-mx.md)), los recursos — bajo Creative Commons Attribution 4.0 (lee [ASSETS_LICENSE_es-mx.md](/docs/ASSETS_LICENSE_es-mx.md)).
-
 A continuación se enumeran ejemplos de declaraciones de atribución para el uso de partes del proyecto, que puedes incluir en tus proyectos que utilizan elementos de "Five Nights with Barsik".
 
 | Al usar | Ejemplo |
