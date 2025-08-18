@@ -1,28 +1,31 @@
 This document is available in the following languages: [Russian (ru-ru)](/docs/README_ru-ru.md), [Ukrainian (uk-ua)](/docs/README_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/docs/README_pt-br.md), [Mexican Spanish (es-mx)](/docs/README_es-mx.md).
 
 <p align="center">
-  <img src="./sprites/repo_icon.png" alt="Repository icon" width="200" />
+  <img src="./sprites/repo_icon.png" alt="Repository icon with the text “Five nights with Barsik”" width="200" />
 </p>
 
 This repository contains parts of the source code of the video game "Five Nights with Barsik", its changelogs, documentation, localization files, and other assets for free use (within the terms of the licenses) on wikis, video thumbnails, in fan games, for creating your own modifications (forks) of the game, and other places.
-
-Please, when using materials from here, [mention the authorship](/ATTRIBUTION.md).
-
----
 
 ## Game Description
 
 You are Antonio. One night, you notice unknown stray cats and robotic toys in your house. After failing to remove them, you seek help from PsyCo—a company founded by psychologists who study paranormal phenomena. Now everyone—you, the cats, and the toys—are part of an important experiment supervised by Genndy, a PsyCo employee. You must survive five hellish nights with these bloodthirsty intruders.
 
----
+## Repository Contents
 
-* [Changelogs 📋](/changelogs/)
-* [Documentation 📖](/docs/)
-* [Localizations 🌐](/langs/)
-* [Sprites 👾](/sprites/)
-* [Wiki archive 📚](/wiki/)
+* [👾 Sprites](/sprites/)
+* [📖 Documentation](/docs/)
+* [🌐 Localizations](/langs/)
+* [📋 Changelogs](/changelogs/)
+* [📚 Wiki archive](/wiki/)
 
----
+## Important Information
+
+Please, before using the project, familiarize yourself with the following materials:
+
+* [📜 License](/LICENSE.md) - the legal basis for using the project
+* [👤 Attribution samples](/ATTRIBUTION.md) - how to properly credit authorship when using the project
+* [⚒️ Terms of use](/docs/TERMS_OF_USE.md) - rules for applying the project in various scenarios
+* [🤝 Contribution guidelines](/docs/CONTRIBUTING.md) - rules for contributors and collaboration
 
 ## Authors
 

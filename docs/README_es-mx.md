@@ -1,28 +1,31 @@
 Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/docs/README_ru-ru.md), [Ucraniano (uk-ua)](/docs/README_uk-ua.md), [Inglés Americano (en-us)](/README.md), [Portugués Brasileño (pt-br)](/docs/README_pt-br.md), **Español Mexicano (es-mx)**.
 
 <p align="center">
-  <img src="/sprites/repo_icon_es-mx.png" alt="Repository icon" width="200" />
+  <img src="/sprites/repo_icon_es-mx.png" alt="Icono del repositorio con el texto “Cinco noches con Barsik”" width="200" />
 </p>
 
 Este repositorio contiene partes del código fuente del videojuego "Cinco Noches con Barsik", sus registros de cambios, documentación, archivos de localización y otros recursos para uso libre (dentro de los términos de las licencias) en wikis, miniaturas de videos, juegos de fans, para crear tus propias modificaciones (forks) del juego y otros lugares.
-
-Por favor, al utilizar materiales de aquí, [mencione la autoría](/docs/ATTRIBUTION_es-mx.md).
-
----
 
 ## Descripción del Juego
 
 Eres Antonio. Una noche, notas gatos callejeros desconocidos y juguetes robóticos en tu casa. Tras no poder expulsarlos, buscas ayuda de PsyCo, una empresa fundada por psicólogos que estudian fenómenos paranormales. Ahora todos —tú, los gatos y los juguetes— forman parte de un importante experimento supervisado por Genndy, uno de los empleados de PsyCo. Debes sobrevivir cinco noches infernales con estos invasores sedientos de sangre.
 
----
+## Contenido del Repositorio
 
-* [Archivo Wiki 📚](/wiki/)
-* [Documentación 📖](/docs/)
-* [Localizaciones 🌐](/langs/)
-* [Registros de cambios 📋](/changelogs/)
-* [Sprites 👾](/sprites/)
+* [👾 Sprites](/sprites/)
+* [📖 Documentación](/docs/)
+* [🌐 Localizaciones](/langs/)
+* [📋 Registros de cambios](/changelogs/)
+* [📚 Archivo Wiki](/wiki/)
 
----
+## Información Importante
+
+Por favor, antes de utilizar el proyecto, familiarízate con los siguientes materiales:
+
+* [📜 Licencia](/docs/LICENSE_es-mx.md) — base legal para el uso del proyecto
+* [👤 Ejemplos de atribución](/docs/ATTRIBUTION_es-mx.md) — cómo acreditar correctamente la autoría al utilizar el proyecto
+* [⚒️ Términos de uso](/docs/TERMS_OF_USE_es-mx.md) — reglas para aplicar el proyecto en varios escenarios
+* [🤝 Directrices de contribución](/docs/CONTRIBUTING_es-mx.md) — reglas para colaboradores y colaboración
 
 ## Autores
 
