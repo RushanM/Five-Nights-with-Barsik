@@ -18,6 +18,31 @@ Você é Antonio. Em uma noite, percebe gatos de rua desconhecidos e brinquedos 
 * [📋 Registros de Alterações](/changelogs/)
 * [📚 Arquivo Wiki](/wiki/)
 
+## Sobre o Código-Fonte
+
+Atualmente, [Deflecta está desenvolvendo a atualização aberta 2.4 para "Cinco Noites com Barsik"](https://github.com/RushanM/Five-Nights-with-Barsik/issues/2). O código desta versão será disponibilizado como open-source e publicado neste repositório. No momento, o repositório não contém o arquivo de código-fonte, mas inclui outros materiais do jogo.
+
+## Extensões Utilizadas no Arquivo Fonte
+
+Se você planeja abrir o arquivo fonte do jogo, instale estas extensões. Caso contrário, não conseguirá abri-lo.
+
+* Analog Joystick Object (Objeto de Joystick Analógico)
+* Android Plus Object (Objeto Android+)
+* Control X (Controle X)
+* Discord Rich Presence
+* File Object (Objeto de Arquivo)
+* Google Play Games Achievements (Google Play Jogos: Conquistas)
+* Google Play Games Cloud (Google Play Jogos: Nuvem)
+* Google Play Games Connector (Google Play Jogos: Autorização)
+* Google Play Games Leaderboards (Google Play Jogos: Classificações)
+* Ini Object (Objeto INI)
+* Joystick 2 Object (Objeto Joystick-2)
+* Layer Object (Objeto de Camada)
+* OS Object (Objeto SO)
+* SDL Joystick Object (Objeto Joystick SDL)
+* Window Control (Controle de Janela)
+* Xbox Gamepad Object (Objeto Gamepad Xbox)
+
 ## Informações Importantes
 
 Por favor, antes de utilizar o projeto, familiarize-se com os seguintes materiais:
@@ -33,7 +58,7 @@ Por favor, antes de utilizar o projeto, familiarize-se com os seguintes materiai
 * **Pavel "P4shtet" Shakhmatov**: criador, desenvolvedor até a versão 2.0, artista, fotógrafo, criador da maioria dos personagens
 * **Gleb "GKProduction" Kapustin**: ajuda no desenvolvimento e recursos, dublador russo de Genndy, suporte
 * **Yuri "Zodli" Grachyov**: dublador de inglês americano
-* **Adriana Mantidfly**: testadora, criadora de alguns personagens
+* **Andriana Mantidfly**: testadora, criadora de alguns personagens
 * **Yaroslav "Sallo666" Sipyagin**: testador
 * **Gleb Glebov**: testador, suporte até a versão 2.0
 * **Max "KickDemonAss" Syrkov**: testador

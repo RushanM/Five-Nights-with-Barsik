@@ -18,6 +18,31 @@
 * [📋 списки змін](/changelogs/),
 * [📚 архів вікі](/wiki/).
 
+## Про вихідний код
+
+Зараз [Дефлекта розробляє відкрите оновлення 2.4 «П'яти ночей з Барсіком»](https://github.com/RushanM/Five-Nights-with-Barsik/issues/2), у якого буде відкрито код, і саме його вихідний файл буде опубліковано в репозиторії. На даний момент у репозиторії немає вихідного файлу, але є інші матеріали по грі.
+
+## Розширення, які використовуються у вихідному файлі
+
+Якщо ви збираєтеся відкривати вихідний файл гри, встановіть ці розширення. Інакше ви не зможете його відкрити.
+
+* Analog Joystick Object («Аналоговий джойстик»);
+* Android Plus Object («Android+»);
+* Control X («Керування X»);
+* Discord Rich Presence;
+* File Object («Файловий об'єкт»);
+* Google Play Games Achievements («Google Play Ігри: досягнення»);
+* Google Play Games Cloud («Google Play Ігри: хмара»);
+* Google Play Games Connector («Google Play Ігри: авторизація»);
+* Google Play Games Leaderboards («Google Play Ігри: списки лідерів»);
+* Ini Object («Об'єкт INI»);
+* Joystick 2 Object («Джойстик-2»);
+* Layer Object («Шаровий об'єкт»);
+* OS Object («Об'єкт ОС»);
+* SDL Joystick Object («Джойстик SDL»);
+* Window Control («Керування вікном»);
+* Xbox Gamepad Object («Геймпад Xbox»).
+
 ## Важлива інформація
 
 Будь ласка, перед використанням проєкту ознайомтеся з наступними матеріалами:

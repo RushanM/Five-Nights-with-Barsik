@@ -18,6 +18,31 @@ Eres Antonio. Una noche, notas gatos callejeros desconocidos y juguetes robótic
 * [📋 Registros de cambios](/changelogs/)
 * [📚 Archivo Wiki](/wiki/)
 
+## Sobre el Código Fuente
+
+Actualmente, [Deflecta está desarrollando la actualización abierta 2.4 para "Cinco Noches con Barsik"](https://github.com/RushanM/Five-Nights-with-Barsik/issues/2). El código de esta versión será de código abierto y se publicará en este repositorio. Por el momento, el repositorio no contiene el archivo de código fuente, pero incluye otros materiales del juego.
+
+## Extensiones Utilizadas en el Archivo Fuente
+
+Si planeas abrir el archivo fuente del juego, instala estas extensiones. De lo contrario, no podrás abrirlo.
+
+* Analog Joystick Object (Objeto Joystick Analógico)
+* Android Plus Object (Objeto Android+)
+* Control X
+* Discord Rich Presence
+* File Object (Objeto de Archivo)
+* Google Play Games Achievements (Google Play Juegos: Logros)
+* Google Play Games Cloud (Google Play Juegos: Nube)
+* Google Play Games Connector (Google Play Juegos: Autorización)
+* Google Play Games Leaderboards (Google Play Juegos: Tablas de clasificación)
+* Ini Object (Objeto INI)
+* Joystick 2 Object (Objeto Joystick-2)
+* Layer Object (Objeto de Capa)
+* OS Object (Objeto SO)
+* SDL Joystick Object (Objeto Joystick SDL)
+* Window Control (Control de Ventana)
+* Xbox Gamepad Object (Objeto Gamepad Xbox)
+
 ## Información Importante
 
 Por favor, antes de utilizar el proyecto, familiarízate con los siguientes materiales:
@@ -33,7 +58,7 @@ Por favor, antes de utilizar el proyecto, familiarízate con los siguientes mate
 * **Pavel "P4shtet" Shakhmatov**: creador, desarrollador hasta la versión 2.0, artista, fotógrafo, creador de la mayoría de los personajes
 * **Gleb "GKProduction" Kapustin**: ayuda con el desarrollo y recursos, actor de voz ruso de Genndy, apoyo
 * **Yuri "Zodli" Grachyov**: actor de voz de inglés americano
-* **Adriana Mantidfly**: probadora, creadora de algunos personajes
+* **Andriana Mantidfly**: probadora, creadora de algunos personajes
 * **Yaroslav "Sallo666" Sipyagin**: probador
 * **Gleb Glebov**: probador, apoyo hasta la versión 2.0
 * **Max "KickDemonAss" Syrkov**: probador

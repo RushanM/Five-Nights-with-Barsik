@@ -18,14 +18,39 @@ You are Antonio. One night, you notice unknown stray cats and robotic toys in yo
 * [📋 Changelogs](/changelogs/)
 * [📚 Wiki archive](/wiki/)
 
+## About the Source Code
+
+Currently, [Deflecta is developing an open update 2.4 for "Five Nights with Barsik"](https://github.com/RushanM/Five-Nights-with-Barsik/issues/2). This version's code will be open-sourced and published in this repository. At the moment, the repository doesn't contain the source code file, but includes other game materials.
+
+## Extensions Used in the Source File
+
+If you plan to open the game's source file, install these extensions. Otherwise, you won't be able to open it.
+
+* Analog Joystick Object
+* Android Plus Object
+* Control X
+* Discord Rich Presence
+* File Object
+* Google Play Games Achievements
+* Google Play Games Cloud
+* Google Play Games Connector
+* Google Play Games Leaderboards
+* Ini Object
+* Joystick 2 Object
+* Layer Object
+* OS Object
+* SDL Joystick Object
+* Window Control
+* Xbox Gamepad Object
+
 ## Important Information
 
 Please, before using the project, familiarize yourself with the following materials:
 
 * [📜 License](/LICENSE.md) - the legal basis for using the project
 * [👤 Attribution samples](/ATTRIBUTION.md) - how to properly credit authorship when using the project
-* [⚒️ Terms of use](/docs/TERMS_OF_USE.md) - rules for applying the project in various scenarios
-* [🤝 Contribution guidelines](/docs/CONTRIBUTING.md) - rules for contributors and collaboration
+* [⚒️ Terms of use](/TERMS_OF_USE.md) - rules for applying the project in various scenarios
+* [🤝 Contribution guidelines](/CONTRIBUTING.md) - rules for contributors and collaboration
 
 ## Authors
 
@@ -33,7 +58,7 @@ Please, before using the project, familiarize yourself with the following materi
 * **Pavel "P4shtet" Shakhmatov**: creator, developer until version 2.0, artist, photographer, creator of most characters
 * **Gleb "GKProduction" Kapustin**: help with development and assets, Russian voice actor for Genndy, support
 * **Yuri "Zodli" Grachyov**: American English voice actor
-* **Adriana Mantidfly**: tester, creator of some characters
+* **Andriana Mantidfly**: tester, creator of some characters
 * **Yaroslav "Sallo666" Sipyagin**: tester
 * **Gleb Glebov**: tester, support until version 2.0
 * **Max "KickDemonAss" Syrkov**: tester
