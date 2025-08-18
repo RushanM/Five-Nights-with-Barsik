@@ -29,15 +29,19 @@ Por favor, antes de utilizar o projeto, familiarize-se com os seguintes materiai
 
 ## Autores
 
-* **Rushan "Deflecta" Mukhutdinov**: desenvolvedor e roteirista desde a versão 2.0
-* **Pavel "P4shtet" Shakhmatov**: criador, fotógrafo, artista, desenvolvedor até a versão 2.0
-* **Gleb "GKProduction" Kapustin**: dublador russo de Genndy, também ajudou com desenvolvimento, alguns recursos e motivação
-* **Matvey "Barsik" Lebedev**: motivador
-* **Sallo666**: testador
-* **Yuri "Zodli" Grachyov**: dublador inglês
-* **Maxim "MaksFred" Pidenko**: testador
+* **Rushan "Deflecta" Mukhutdinov**: detentor dos direitos autorais, desenvolvedor, escritor, artista desde a versão 2.0, criador de alguns personagens
+* **Pavel "P4shtet" Shakhmatov**: criador, desenvolvedor até a versão 2.0, artista, fotógrafo, criador da maioria dos personagens
+* **Gleb "GKProduction" Kapustin**: ajuda no desenvolvimento e recursos, dublador russo de Genndy, suporte
+* **Yuri "Zodli" Grachyov**: dublador de inglês americano
+* **Adriana Mantidfly**: testadora, criadora de alguns personagens
+* **Yaroslav "Sallo666" Sipyagin**: testador
+* **Gleb Glebov**: testador, suporte até a versão 2.0
+* **Max "KickDemonAss" Syrkov**: testador
+* **Matvey "Barsik" Lebedev**: suporte
 * **Other Games Production**: suporte
 * **Smart Games Team**: suporte
+
+Obrigado a todos que doaram!
 
 ---
 
@@ -47,4 +51,4 @@ Por favor, antes de utilizar o projeto, familiarize-se com os seguintes materiai
 * [Wiki do Jogo](https://five-nights-with-barsik.fandom.com/ru/wiki/Вики_серий_«Одна_ночь_с_Котей»_и_«Пять_ночей_с_Барсиком»)
 * [Comunidade VK do Jogo](https://vk.com/fivenightswithbarsik)
 * [Jogo no Trashbox](https://trashbox.ru/link/pyat-nochej-u-barsika-android)
-* [Jogo no Google Play (atualmente oculto)](https://play.google.com/store/apps/details?id=ru.deflecta.fnwb)
+* [Jogo no Google Play](https://play.google.com/store/apps/details?id=ru.deflecta.fnwb) (atualmente oculto)
