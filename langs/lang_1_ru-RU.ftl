@@ -1,4 +1,4 @@
-# Этот файл распространяется под лицензией MIT, что актуально на 2025 год
+# Этот файл распространяется под программной лицензией Дефлекты 1-й редакции 2025 года, что актуально на 2025 год
 
 ### Русскоязычный файл локализации «Пяти ночей с Барсиком»
 
@@ -8,11 +8,11 @@
 
 # В данном случае у строк названий языков, что являются терминами, срезана первая буква, потому что эта самая первая буква добавляется к ним позже, и то, какого регистра она будет, решает то, какие языки игрок выбрал, а какие нет.
 
--lang-uncomplete-ru-ru = усский
+-lang-uncomplete-ru-RU = усский
 -lang-uncomplete-uk_ua = краинский
--lang-uncomplete-en-us = мериканский английский
--lang-uncomplete-pt-br = разильский португальский
--lang-uncomplete-es-mx = ексиканский испанский
+-lang-uncomplete-en-US = мериканский английский
+-lang-uncomplete-pt-BR = разильский португальский
+-lang-uncomplete-es-MX = ексиканский испанский
 
 ## Метаданные локализации
 
@@ -22,7 +22,7 @@ lang-native = Русский
 
 # Строка lang-code — это системный код языка для идентификации этого файла
 
-lang-code = ru-ru
+lang-code = ru-RU
 
 # Меню выбора языка — это первое меню, которое встречает игрока в игре
 
@@ -51,16 +51,16 @@ selected = Выбран
 # Строки с названием начинающимся на lang-complete являются полными названиями языков, составленными из вставки буквы в нужном регистре в начале и извлечении оставшегося слова из терминов. Эти строки используются для показа игроку существующих языков игры, а их различный регистр — для различия между выбранными языками и невыбранными.
 # Но эти усилия с разделением на разный регистр делаются лишь для локализаций, в которых регистр в названии языка может быть полностью нижним и это не будет считаться ошибкой. Например, в американско-английском такое написание будет некорректным и названия языков всегда должны писаться с прописной буквы.
 
-lang-complete-ru-ru-caps = Р{ -lang-uncomplete-ru-ru }
-lang-complete-ru-ru = р{ -lang-uncomplete-ru-ru }
+lang-complete-ru-RU-caps = Р{ -lang-uncomplete-ru-RU }
+lang-complete-ru-RU = р{ -lang-uncomplete-ru-RU }
 lang-complete-uk_ua-caps = У{ -lang-uncomplete-uk_ua }
 lang-complete-uk_ua = у{ -lang-uncomplete-uk_ua }
-lang-complete-en-us-caps = А{ -lang-uncomplete-en-us }
-lang-complete-en-us = а{ -lang-uncomplete-en-us }
-lang-complete-pt-br-caps = Б{ -lang-uncomplete-pt-br }
-lang-complete-pt-br = б{ -lang-uncomplete-pt-br }
-lang-complete-es-mx-caps = М{ -lang-uncomplete-es-mx }
-lang-complete-es-mx = м{ -lang-uncomplete-es-mx }
+lang-complete-en-US-caps = А{ -lang-uncomplete-en-US }
+lang-complete-en-US = а{ -lang-uncomplete-en-US }
+lang-complete-pt-BR-caps = Б{ -lang-uncomplete-pt-BR }
+lang-complete-pt-BR = б{ -lang-uncomplete-pt-BR }
+lang-complete-es-MX-caps = М{ -lang-uncomplete-es-MX }
+lang-complete-es-MX = м{ -lang-uncomplete-es-MX }
 
 # Строка done появляется в текстовой кнопке в правом нижнем углу меню выбора языка и символизириует завершение выбора языка. При нажатии на неё игрок переходит к дисклеймеру.
 

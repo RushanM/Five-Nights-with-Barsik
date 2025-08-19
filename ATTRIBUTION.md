@@ -1,10 +1,10 @@
-This document is available in the following languages: [Russian (ru-ru)](/docs/ATTRIBUTION_ru-ru.md), [Ukrainian (uk-ua)](/docs/ATTRIBUTION_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/docs/ATTRIBUTION_pt-br.md), [Mexican Spanish (es-mx)](/docs/ATTRIBUTION_es-mx.md).
+This document is available in the following languages: [Russian (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), [Ukrainian (uk-UA)](/docs/ATTRIBUTION_uk-UA.md), **American English (en-US)**, [Brazilian Portuguese (pt-BR)](/docs/ATTRIBUTION_pt-BR.md), [Mexican Spanish (es-MX)](/docs/ATTRIBUTION_es-MX.md).
 
 # Attribution Examples
 
-If you use any part of the code or assets from the "Five Nights with Barsik" repository, please attribute the authorship.
+> **Important**: This document supplements the [project license](/LICENSE.md), section "1. Authorship and Attribution". Proper attribution is a mandatory requirement when using any parts of the project.
 
-> Note: the code is distributed under the MIT license (read [LICENSE.md](/LICENSE.md)), assets—under Creative Commons Attribution 4.0 (read [ASSETS_LICENSE.md](/ASSETS_LICENSE.md)).
+If you use any part of the code or assets from the "Five Nights with Barsik" repository, please attribute the authorship.
 
 Listed below are examples of attribution statements for using parts of the project, which you can include in your projects that use elements from "Five Nights with Barsik."
 
@@ -30,5 +30,14 @@ Listed below are examples of attribution statements for using parts of the proje
 | Some assets | This project was developed using some assets from the video game "Five Nights with Barsik" by Rushan "Deflecta" Mukhutdinov |
 | Some assets | This project was developed using some assets from the video game "Five Nights with Barsik" by Rushan Mukhutdinov |
 | Some assets | This project was developed using some assets from the video game "Five Nights with Barsik" by RushanM |
+| Fan game | "Five Nights with Barsik" belongs to @Rushan |
+| Fan game | "Five Nights with Barsik" belongs to RushanM |
+| Fan game | "Five Nights with Barsik" belongs to Deflecta |
 
 If the options described here don't suit you or don't fit your project, you can write your own attribution, but the main text should remain similar. You can do even better—suggest a new option or options in the repository issues or elsewhere where I will definitely notice your suggestion.
+
+## Related Documents
+
+* [📜 license](/LICENSE.md) - main document with attribution requirements,
+* [⚒️ terms of use](/TERMS_OF_USE.md) - additional requirements for various types of use,
+* [🤝 contribution guidelines](/CONTRIBUTING.md) - rules for project contributors.

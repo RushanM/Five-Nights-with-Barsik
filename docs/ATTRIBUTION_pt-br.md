@@ -1,6 +1,8 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/ATTRIBUTION_ru-ru.md), [Ucraniano (uk-ua)](/docs/ATTRIBUTION_uk-ua.md), [Inglês Americano (en-us)](/ATTRIBUTION.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/ATTRIBUTION_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), [Ucraniano (uk-UA)](/docs/ATTRIBUTION_uk-UA.md), [Inglês Americano (en-US)](/ATTRIBUTION.md), **Português Brasileiro (pt-BR)**, [Espanhol Mexicano (es-MX)](/docs/ATTRIBUTION_es-MX.md).
 
 # Exemplos de Atribuição
+
+> **Importante**: este documento complementa a [licença do projeto](/docs/LICENSE_pt-BR.md), seção "1. Autoria e Atribuição". A indicação correta de autoria é um requisito obrigatório ao utilizar quaisquer partes do projeto.
 
 Se você usar qualquer parte do código ou recursos do repositório "Five Nights with Barsik", por favor, mencione a autoria.
 
@@ -29,5 +31,14 @@ Abaixo estão listados exemplos de declarações de atribuição para o uso de p
 | Parte do código | Este projeto foi desenvolvido usando parte do código do videogame "Five Nights with Barsik" por RushanM |
 | Parte do código | Este projeto foi desenvolvido usando parte do código do videogame "Five Nights with Barsik" de Rushan "Deflecta" Mukhutdinov |
 | Parte do código | Este projeto foi desenvolvido usando parte do código do videogame "Five Nights with Barsik" de Rushan Mukhutdinov |
+| Jogo de fãs | "Five Nights with Barsik" pertence a @Rushan |
+| Jogo de fãs | "Five Nights with Barsik" pertence a RushanM |
+| Jogo de fãs | "Five Nights with Barsik" pertence a Deflecta |
 
 Se as opções descritas aqui não forem adequadas ou não se encaixarem no seu projeto, você pode escrever sua própria atribuição, mas o texto principal deve permanecer semelhante. Você pode fazer ainda melhor — sugerir uma nova opção ou opções nas issues do repositório ou em outro lugar onde eu certamente notarei sua sugestão.
+
+## Documentos Relacionados
+
+* [📜 licença](/docs/LICENSE_pt-BR.md) — documento principal com requisitos de atribuição,
+* [⚒️ termos de uso](/docs/TERMS_OF_USE_pt-BR.md) — requisitos adicionais para vários tipos de uso,
+* [🤝 diretrizes de contribuição](/docs/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.
