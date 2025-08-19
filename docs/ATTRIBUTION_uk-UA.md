@@ -1,4 +1,4 @@
-Цей документ доступний наступними мовами: [російська (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), **українська (uk-UA)**, [американська англійська (en-US)](/ATTRIBUTION.md), [бразильська португальська (pt-BR)](/docs/ATTRIBUTION_pt-BR.md), [мексиканська іспанська (es-MX)](/docs/ATTRIBUTION_es-MX.md).
+Цей документ доступний наступними мовами: [російська (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), [американська англійська (en-US)](/ATTRIBUTION.md), **українська (uk-UA)**.
 
 # Зразки згадувань
 

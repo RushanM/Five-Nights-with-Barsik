@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), [Ukrainian (uk-UA)](/docs/ATTRIBUTION_uk-UA.md), **American English (en-US)**, [Brazilian Portuguese (pt-BR)](/docs/ATTRIBUTION_pt-BR.md), [Mexican Spanish (es-MX)](/docs/ATTRIBUTION_es-MX.md).
+This document is available in the following languages: [Russian (ru-RU)](/docs/ATTRIBUTION_ru-RU.md), **American English (en-US)**, [Ukrainian (uk-UA)](/docs/ATTRIBUTION_uk-UA.md).
 
 # Attribution Examples
 

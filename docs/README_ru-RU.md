@@ -1,4 +1,4 @@
-Этот документ доступен на следующих языках: **русский (ru-RU)**, [украинский (uk-UA)](/docs/README_uk-UA.md), [американский английский (en-US)](/README.md), [португальский бразильский (pt-BR)](/docs/README_pt-BR.md), [мексиканский испанский (es-MX)](/docs/README_es-MX.md).
+Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/README.md), [украинский (uk-UA)](/docs/README_uk-UA.md).
 
 <p align="center">
   <img src="/sprites/repo_icon_ru-RU.png" alt="Значок репозитория с текстом «Пять ночей с Барсиком»" width="200" />

@@ -1,4 +1,4 @@
-Этот документ доступен на следующих языках: **русский (ru-RU)**, [украинский (uk-UA)](/docs/ATTRIBUTION_uk-UA.md), [американский английский (en-US)](/ATTRIBUTION.md), [португальский бразильский (pt-BR)](/docs/ATTRIBUTION_pt-BR.md), [мексиканский испанский (es-MX)](/docs/ATTRIBUTION_es-MX.md).
+Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/ATTRIBUTION.md), [украинский (uk-UA)](/docs/ATTRIBUTION_uk-UA.md).
 
 # Образцы упоминаний
 
