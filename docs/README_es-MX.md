@@ -26,21 +26,18 @@ Actualmente, [Deflecta está desarrollando la actualización abierta 2.4 para "C
 
 Si planeas abrir el archivo fuente del juego, instala estas extensiones. De lo contrario, no podrás abrirlo.
 
-* Analog Joystick Object (Objeto Joystick Analógico)
-* Android Plus Object (Objeto Android+)
+* Android Plus Object (Objeto Android+, Fusion 2.5 Build 295.10=<, Android Exporter)
 * Control X
-* Discord Rich Presence
 * File Object (Objeto de Archivo)
-* Google Play Games Achievements (Google Play Juegos: Logros)
-* Google Play Games Cloud (Google Play Juegos: Nube)
-* Google Play Games Connector (Google Play Juegos: Autorización)
-* Google Play Games Leaderboards (Google Play Juegos: Tablas de clasificación)
-* Ini Object (Objeto INI)
-* Joystick 2 Object (Objeto Joystick-2)
-* Layer Object (Objeto de Capa)
-* OS Object (Objeto SO)
+* Discord Rich Presence:
+* * https://www.dark-wire.com/storage/extlist.php
+* * https://community.clickteam.com/forum/thread/105184-drpc-discord-rich-presence-extension/
+* [Google Play Games Achievements (Google Play Juegos: Logros)](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Cloud (Google Play Juegos: Nube)](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Connector (Google Play Juegos: Autorización)](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Leaderboards (Google Play Juegos: Tablas de clasificación)](https://clickstore.clickteam.com/google_play_games_objects)
+* [Joystick 2 Object](https://community.clickteam.com/forum/thread/44713-joystick-2-object/)
 * [SDL Joystick Object (Objeto Joystick SDL)](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
-* Window Control (Control de Ventana)
 * Xbox Gamepad Object (Objeto Gamepad Xbox)
 
 ## Información Importante

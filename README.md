@@ -26,21 +26,18 @@ Currently, [Deflecta is developing an open update 2.4 for "Five Nights with Bars
 
 If you plan to open the game's source file, install these extensions. Otherwise, you won't be able to open it.
 
-* Analog Joystick Object
-* Android Plus Object
-* Control X
-* Discord Rich Presence
-* File Object
-* Google Play Games Achievements
-* Google Play Games Cloud
-* Google Play Games Connector
-* Google Play Games Leaderboards
-* Ini Object
-* Joystick 2 Object
-* Layer Object
-* OS Object
+* Android Plus Object (Fusion 2.5 Build 295.10=<, Android Exporter)
+* Control X (from Extension Manager)
+* File Object (from Extension Manager)
+* Discord Rich Presence:
+* * https://www.dark-wire.com/storage/extlist.php
+* * https://community.clickteam.com/forum/thread/105184-drpc-discord-rich-presence-extension/
+* [Google Play Games Achievements](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Cloud](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Connector](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Leaderboards](https://clickstore.clickteam.com/google_play_games_objects)
+* [Joystick 2 Object](https://community.clickteam.com/forum/thread/44713-joystick-2-object/)
 * [SDL Joystick Object](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
-* Window Control
 * Xbox Gamepad Object
 
 ## Important Information

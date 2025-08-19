@@ -29,12 +29,12 @@
 * Analog Joystick Object («Аналоговий джойстик»);
 * Android Plus Object («Android+»);
 * Control X («Керування X»);
-* Discord Rich Presence;
+* [Discord Rich Presence;](https://community.clickteam.com/forum/thread/105184-drpc-discord-rich-presence-extension/)
 * File Object («Файловий об'єкт»);
-* Google Play Games Achievements («Google Play Ігри: досягнення»);
-* Google Play Games Cloud («Google Play Ігри: хмара»);
-* Google Play Games Connector («Google Play Ігри: авторизація»);
-* Google Play Games Leaderboards («Google Play Ігри: списки лідерів»);
+* [Google Play Games Achievements («Google Play Ігри: досягнення»);](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Cloud («Google Play Ігри: хмара»);](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Connector («Google Play Ігри: авторизація»);](https://clickstore.clickteam.com/google_play_games_objects)
+* [Google Play Games Leaderboards («Google Play Ігри: списки лідерів»);](https://clickstore.clickteam.com/google_play_games_objects)
 * Ini Object («Об'єкт INI»);
 * Joystick 2 Object («Джойстик-2»);
 * Layer Object («Шаровий об'єкт»);
