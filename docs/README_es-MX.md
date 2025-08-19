@@ -39,7 +39,7 @@ Si planeas abrir el archivo fuente del juego, instala estas extensiones. De lo c
 * Joystick 2 Object (Objeto Joystick-2)
 * Layer Object (Objeto de Capa)
 * OS Object (Objeto SO)
-* SDL Joystick Object (Objeto Joystick SDL)
+* [SDL Joystick Object (Objeto Joystick SDL)](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
 * Window Control (Control de Ventana)
 * Xbox Gamepad Object (Objeto Gamepad Xbox)
 

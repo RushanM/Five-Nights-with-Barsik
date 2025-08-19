@@ -39,7 +39,7 @@
 * Joystick 2 Object («Джойстик-2»);
 * Layer Object («Шаровий об'єкт»);
 * OS Object («Об'єкт ОС»);
-* SDL Joystick Object («Джойстик SDL»);
+* [SDL Joystick Object («Джойстик SDL»);](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
 * Window Control («Керування вікном»);
 * Xbox Gamepad Object («Геймпад Xbox»).
 

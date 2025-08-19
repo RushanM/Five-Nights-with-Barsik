@@ -39,7 +39,7 @@ If you plan to open the game's source file, install these extensions. Otherwise,
 * Joystick 2 Object
 * Layer Object
 * OS Object
-* SDL Joystick Object
+* [SDL Joystick Object](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
 * Window Control
 * Xbox Gamepad Object
 

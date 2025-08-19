@@ -39,7 +39,7 @@ Se você planeja abrir o arquivo fonte do jogo, instale estas extensões. Caso c
 * Joystick 2 Object (Objeto Joystick-2)
 * Layer Object (Objeto de Camada)
 * OS Object (Objeto SO)
-* SDL Joystick Object (Objeto Joystick SDL)
+* [SDL Joystick Object (Objeto Joystick SDL)](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases)
 * Window Control (Controle de Janela)
 * Xbox Gamepad Object (Objeto Gamepad Xbox)
 

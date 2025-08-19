@@ -26,22 +26,22 @@
 
 Если вы собираетесь открывать исходный файл игры, установите эти расширения. Иначе вы не сможете его открыть.
 
-* Analog Joystick Object («Аналоговый джойстик» в русификаторе);
-* Android Plus Object («Android+» в русификаторе);
-* Control X («Управление X» в русификаторе);
+* Analog Joystick Object («Аналоговый джойстик» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Android Plus Object («Android+» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Control X («Управление X» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
 * Discord Rich Presence;
-* File Object («Файловый объект» в русификаторе);
-* Google Play Games Achievements («Google Play Игры: достижения» в русификаторе);
-* Google Play Games Cloud («Google Play Игры: облако» в русификаторе);
-* Google Play Games Connector («Google Play Игры: авторизация» в русификаторе);
-* Google Play Games Leaderboards («Google Play Игры: списки лидеров» в русификаторе);
-* Ini Object («Объект INI» в русификаторе);
-* Joystick 2 Object («Джойстик-2» в русификаторе);
-* Layer Object («Слоевый объект» в русификаторе);
-* OS Object («Объект ОС» в русификаторе);
-* SDL Joystick Object («Джойстик SDL» в русификаторе);
-* Window Control («Управление окном» в русификаторе);
-* Xbox Gamepad Object («Геймпад Xbox» в русификаторе).
+* File Object («Файловый объект» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Google Play Games Achievements («Google Play Игры: достижения» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Google Play Games Cloud («Google Play Игры: облако» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Google Play Games Connector («Google Play Игры: авторизация» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Google Play Games Leaderboards («Google Play Игры: списки лидеров» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Ini Object («Объект INI» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Joystick 2 Object («Джойстик-2» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Layer Object («Слоевый объект» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* OS Object («Объект ОС» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* [SDL Joystick Object](https://gitlab.com/PiKeyAr/SDLJoystick/-/releases) («Джойстик SDL» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Window Control («Управление окном» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language));
+* Xbox Gamepad Object («Геймпад Xbox» в [русификаторе](https://github.com/RushanM/Clickteam-Fusion-2.5-Russian-Language)).
 
 ## Важная информация
 
