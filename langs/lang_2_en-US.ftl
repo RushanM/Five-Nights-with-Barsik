@@ -10,11 +10,11 @@
 # For language name terms, the first letter is removed because it will be added later 
 # with different case depending on whether the player has selected that language or not
 
--lang-uncomplete-ru-ru = ussian
+-lang-uncomplete-ru-RU = ussian
 -lang-uncomplete-uk_ua = krainian
--lang-uncomplete-en-us = merican English
--lang-uncomplete-pt-br = razilian Portuguese
--lang-uncomplete-es-mx = exican Spanish
+-lang-uncomplete-en-US = merican English
+-lang-uncomplete-pt-BR = razilian Portuguese
+-lang-uncomplete-es-MX = exican Spanish
 
 ## Localization metadata
 
@@ -22,7 +22,7 @@
 lang-native = American English
 
 # lang-code is the system language code for identifying this file
-lang-code = en-us
+lang-code = en-US
 
 # The language selection menu is the first menu that greets the player in the game
 
@@ -45,16 +45,16 @@ selected = Selected
 
 # Strings with names starting with lang-complete are complete language names.
 # In English, language names are always capitalized regardless of selection status.
-lang-complete-ru-ru-caps = R{ -lang-uncomplete-ru-ru }
-lang-complete-ru-ru = R{ -lang-uncomplete-ru-ru }
+lang-complete-ru-RU-caps = R{ -lang-uncomplete-ru-RU }
+lang-complete-ru-RU = R{ -lang-uncomplete-ru-RU }
 lang-complete-uk_ua-caps = U{ -lang-uncomplete-uk_ua }
 lang-complete-uk_ua = U{ -lang-uncomplete-uk_ua }
-lang-complete-en-us-caps = A{ -lang-uncomplete-en-us }
-lang-complete-en-us = A{ -lang-uncomplete-en-us }
-lang-complete-pt-br-caps = B{ -lang-uncomplete-pt-br }
-lang-complete-pt-br = B{ -lang-uncomplete-pt-br }
-lang-complete-es-mx-caps = M{ -lang-uncomplete-es-mx }
-lang-complete-es-mx = M{ -lang-uncomplete-es-mx }
+lang-complete-en-US-caps = A{ -lang-uncomplete-en-US }
+lang-complete-en-US = A{ -lang-uncomplete-en-US }
+lang-complete-pt-BR-caps = B{ -lang-uncomplete-pt-BR }
+lang-complete-pt-BR = B{ -lang-uncomplete-pt-BR }
+lang-complete-es-MX-caps = M{ -lang-uncomplete-es-MX }
+lang-complete-es-MX = M{ -lang-uncomplete-es-MX }
 
 # done appears on a text button in the lower right corner of the language selection menu
 # and signifies completion of language selection. Clicking it takes the player to the SGT splash screen.

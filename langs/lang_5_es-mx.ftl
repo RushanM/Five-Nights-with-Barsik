@@ -10,11 +10,11 @@
 # Para los términos de nombres de idiomas, se elimina la primera letra porque se agregará más tarde
 # con diferentes casos dependiendo de si el jugador ha seleccionado ese idioma o no
 
--lang-uncomplete-ru-ru = uso
+-lang-uncomplete-ru-RU = uso
 -lang-uncomplete-uk_ua = craniano
--lang-uncomplete-en-us = nglés Estadounidense
--lang-uncomplete-pt-br = ortugués Brasileño
--lang-uncomplete-es-mx = spañol Mexicano
+-lang-uncomplete-en-US = nglés Estadounidense
+-lang-uncomplete-pt-BR = ortugués Brasileño
+-lang-uncomplete-es-MX = spañol Mexicano
 
 ## Metadatos de localización
 
@@ -22,7 +22,7 @@
 lang-native = Español Mexicano
 
 # lang-code es el código de idioma del sistema para identificar este archivo
-lang-code = es-mx
+lang-code = es-MX
 
 # El menú de selección de idioma es el primer menú que recibe al jugador en el juego
 
@@ -47,16 +47,16 @@ selected = Seleccionado
 # En español, los nombres de idiomas generalmente se escriben con minúscula,
 # pero usamos mayúsculas para indicar idiomas seleccionados.
 
-lang-complete-ru-ru-caps = R{ -lang-uncomplete-ru-ru }
-lang-complete-ru-ru = r{ -lang-uncomplete-ru-ru }
+lang-complete-ru-RU-caps = R{ -lang-uncomplete-ru-RU }
+lang-complete-ru-RU = r{ -lang-uncomplete-ru-RU }
 lang-complete-uk_ua-caps = U{ -lang-uncomplete-uk_ua }
 lang-complete-uk_ua = u{ -lang-uncomplete-uk_ua }
-lang-complete-en-us-caps = I{ -lang-uncomplete-en-us }
-lang-complete-en-us = i{ -lang-uncomplete-en-us }
-lang-complete-pt-br-caps = P{ -lang-uncomplete-pt-br }
-lang-complete-pt-br = p{ -lang-uncomplete-pt-br }
-lang-complete-es-mx-caps = E{ -lang-uncomplete-es-mx }
-lang-complete-es-mx = e{ -lang-uncomplete-es-mx }
+lang-complete-en-US-caps = I{ -lang-uncomplete-en-US }
+lang-complete-en-US = i{ -lang-uncomplete-en-US }
+lang-complete-pt-BR-caps = P{ -lang-uncomplete-pt-BR }
+lang-complete-pt-BR = p{ -lang-uncomplete-pt-BR }
+lang-complete-es-MX-caps = E{ -lang-uncomplete-es-MX }
+lang-complete-es-MX = e{ -lang-uncomplete-es-MX }
 
 # done aparece en un botón de texto en la esquina inferior derecha del menú de selección de idioma
 # y significa la finalización de la selección de idioma. Al hacer clic en él, el jugador es llevado a la pantalla de inicio SGT.

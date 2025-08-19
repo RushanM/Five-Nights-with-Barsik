@@ -10,11 +10,11 @@
 # Para termos de nomes de idiomas, a primeira letra é removida porque será adicionada depois
 # com diferentes casos dependendo se o jogador selecionou aquele idioma ou não
 
--lang-uncomplete-ru-ru = usso
+-lang-uncomplete-ru-RU = usso
 -lang-uncomplete-uk_ua = craniano
--lang-uncomplete-en-us = nglês Americano
--lang-uncomplete-pt-br = ortuguês Brasileiro
--lang-uncomplete-es-mx = spanhol Mexicano
+-lang-uncomplete-en-US = nglês Americano
+-lang-uncomplete-pt-BR = ortuguês Brasileiro
+-lang-uncomplete-es-MX = spanhol Mexicano
 
 ## Metadados de localização
 
@@ -22,7 +22,7 @@
 lang-native = Português Brasileiro
 
 # lang-code é o código de idioma do sistema para identificar este arquivo
-lang-code = pt-br
+lang-code = pt-BR
 
 # O menu de seleção de idioma é o primeiro menu que recebe o jogador no jogo
 
@@ -47,16 +47,16 @@ selected = Selecionado
 # Em português, nomes de idiomas geralmente são escritos com letra minúscula, 
 # mas usamos capitalização para indicar idiomas selecionados.
 
-lang-complete-ru-ru-caps = R{ -lang-uncomplete-ru-ru }
-lang-complete-ru-ru = r{ -lang-uncomplete-ru-ru }
+lang-complete-ru-RU-caps = R{ -lang-uncomplete-ru-RU }
+lang-complete-ru-RU = r{ -lang-uncomplete-ru-RU }
 lang-complete-uk_ua-caps = U{ -lang-uncomplete-uk_ua }
 lang-complete-uk_ua = u{ -lang-uncomplete-uk_ua }
-lang-complete-en-us-caps = I{ -lang-uncomplete-en-us }
-lang-complete-en-us = i{ -lang-uncomplete-en-us }
-lang-complete-pt-br-caps = P{ -lang-uncomplete-pt-br }
-lang-complete-pt-br = p{ -lang-uncomplete-pt-br }
-lang-complete-es-mx-caps = E{ -lang-uncomplete-es-mx }
-lang-complete-es-mx = e{ -lang-uncomplete-es-mx }
+lang-complete-en-US-caps = I{ -lang-uncomplete-en-US }
+lang-complete-en-US = i{ -lang-uncomplete-en-US }
+lang-complete-pt-BR-caps = P{ -lang-uncomplete-pt-BR }
+lang-complete-pt-BR = p{ -lang-uncomplete-pt-BR }
+lang-complete-es-MX-caps = E{ -lang-uncomplete-es-MX }
+lang-complete-es-MX = e{ -lang-uncomplete-es-MX }
 
 # done aparece em um botão de texto no canto inferior direito do menu de seleção de idioma
 # e significa a conclusão da seleção de idioma. Ao clicar nele, o jogador é levado à tela inicial SGT.

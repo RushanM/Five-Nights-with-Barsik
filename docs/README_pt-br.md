@@ -1,7 +1,7 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/docs/README_ru-ru.md), [Ucraniano (uk-ua)](/docs/README_uk-ua.md), [Inglês Americano (en-us)](/README.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/docs/README_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-RU)](/docs/README_ru-RU.md), [Ucraniano (uk-UA)](/docs/README_uk-UA.md), [Inglês Americano (en-US)](/README.md), **Português Brasileiro (pt-BR)**, [Espanhol Mexicano (es-MX)](/docs/README_es-MX.md).
 
 <p align="center">
-  <img src="/sprites/repo_icon_pt-br.png" alt="Ícone do repositório com o texto “Cinco noites com Barsik”" width="200" />
+  <img src="/sprites/repo_icon_pt-BR.png" alt="Ícone do repositório com o texto “Cinco noites com Barsik”" width="200" />
 </p>
 
 Este repositório contém partes do código-fonte do videogame "Cinco Noites com Barsik", seus changelogs, documentação, arquivos de localização e outros recursos para uso livre (dentro dos termos das licenças) em wikis, miniaturas de vídeos, jogos de fãs, para criar suas próprias modificações (forks) do jogo e outros lugares.
@@ -47,10 +47,10 @@ Se você planeja abrir o arquivo fonte do jogo, instale estas extensões. Caso c
 
 Por favor, antes de utilizar o projeto, familiarize-se com os seguintes materiais:
 
-* [📜 Licença](/docs/LICENSE_pt-br.md) — base legal para uso do projeto
-* [👤 Exemplos de atribuição](/docs/ATTRIBUTION_pt-br.md) — como creditar corretamente a autoria ao utilizar o projeto
-* [⚒️ Termos de uso](/docs/TERMS_OF_USE_pt-br.md) — regras para aplicação do projeto em vários cenários
-* [🤝 Diretrizes de contribuição](/docs/CONTRIBUTING_pt-br.md) — regras para colaboradores e colaboração
+* [📜 Licença](/docs/LICENSE_pt-BR.md) — base legal para uso do projeto
+* [👤 Exemplos de atribuição](/docs/ATTRIBUTION_pt-BR.md) — como creditar corretamente a autoria ao utilizar o projeto
+* [⚒️ Termos de uso](/docs/TERMS_OF_USE_pt-BR.md) — regras para aplicação do projeto em vários cenários
+* [🤝 Diretrizes de contribuição](/docs/CONTRIBUTING_pt-BR.md) — regras para colaboradores e colaboração
 
 ## Autores
 

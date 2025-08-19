@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-ru)](/docs/README_ru-ru.md), [Ukrainian (uk-ua)](/docs/README_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/docs/README_pt-br.md), [Mexican Spanish (es-mx)](/docs/README_es-mx.md).
+This document is available in the following languages: [Russian (ru-RU)](/docs/README_ru-RU.md), [Ukrainian (uk-UA)](/docs/README_uk-UA.md), **American English (en-US)**, [Brazilian Portuguese (pt-BR)](/docs/README_pt-BR.md), [Mexican Spanish (es-MX)](/docs/README_es-MX.md).
 
 <p align="center">
   <img src="./sprites/repo_icon.png" alt="Repository icon with the text “Five nights with Barsik”" width="200" />

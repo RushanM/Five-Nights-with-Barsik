@@ -1,7 +1,7 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/docs/README_ru-ru.md), [Ucraniano (uk-ua)](/docs/README_uk-ua.md), [Inglés Americano (en-us)](/README.md), [Portugués Brasileño (pt-br)](/docs/README_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-RU)](/docs/README_ru-RU.md), [Ucraniano (uk-UA)](/docs/README_uk-UA.md), [Inglés Americano (en-US)](/README.md), [Portugués Brasileño (pt-BR)](/docs/README_pt-BR.md), **Español Mexicano (es-MX)**.
 
 <p align="center">
-  <img src="/sprites/repo_icon_es-mx.png" alt="Icono del repositorio con el texto “Cinco noches con Barsik”" width="200" />
+  <img src="/sprites/repo_icon_es-MX.png" alt="Icono del repositorio con el texto “Cinco noches con Barsik”" width="200" />
 </p>
 
 Este repositorio contiene partes del código fuente del videojuego "Cinco Noches con Barsik", sus registros de cambios, documentación, archivos de localización y otros recursos para uso libre (dentro de los términos de las licencias) en wikis, miniaturas de videos, juegos de fans, para crear tus propias modificaciones (forks) del juego y otros lugares.
@@ -47,10 +47,10 @@ Si planeas abrir el archivo fuente del juego, instala estas extensiones. De lo c
 
 Por favor, antes de utilizar el proyecto, familiarízate con los siguientes materiales:
 
-* [📜 Licencia](/docs/LICENSE_es-mx.md) — base legal para el uso del proyecto
-* [👤 Ejemplos de atribución](/docs/ATTRIBUTION_es-mx.md) — cómo acreditar correctamente la autoría al utilizar el proyecto
-* [⚒️ Términos de uso](/docs/TERMS_OF_USE_es-mx.md) — reglas para aplicar el proyecto en varios escenarios
-* [🤝 Directrices de contribución](/docs/CONTRIBUTING_es-mx.md) — reglas para colaboradores y colaboración
+* [📜 Licencia](/docs/LICENSE_es-MX.md) — base legal para el uso del proyecto
+* [👤 Ejemplos de atribución](/docs/ATTRIBUTION_es-MX.md) — cómo acreditar correctamente la autoría al utilizar el proyecto
+* [⚒️ Términos de uso](/docs/TERMS_OF_USE_es-MX.md) — reglas para aplicar el proyecto en varios escenarios
+* [🤝 Directrices de contribución](/docs/CONTRIBUTING_es-MX.md) — reglas para colaboradores y colaboración
 
 ## Autores
 

@@ -11,11 +11,11 @@
 # тому що ця сама перша літера додається до них пізніше, і те, якого регістру вона буде, 
 # вирішує те, які мови гравець вибрав, а які ні.
 
--lang-uncomplete-ru-ru = осійська
+-lang-uncomplete-ru-RU = осійська
 -lang-uncomplete-uk_ua = країнська
--lang-uncomplete-en-us = мериканська англійська
--lang-uncomplete-pt-br = разильська португальська
--lang-uncomplete-es-mx = ексиканська іспанська
+-lang-uncomplete-en-US = мериканська англійська
+-lang-uncomplete-pt-BR = разильська португальська
+-lang-uncomplete-es-MX = ексиканська іспанська
 
 ## Метадані локалізації
 
@@ -49,16 +49,16 @@ selected = Вибрано
 # використовуються для показу гравцеві існуючих мов гри, а їх різний регістр — для розрізнення 
 # між вибраними мовами та невибраними.
 
-lang-complete-ru-ru-caps = Р{ -lang-uncomplete-ru-ru }
-lang-complete-ru-ru = р{ -lang-uncomplete-ru-ru }
+lang-complete-ru-RU-caps = Р{ -lang-uncomplete-ru-RU }
+lang-complete-ru-RU = р{ -lang-uncomplete-ru-RU }
 lang-complete-uk_ua-caps = У{ -lang-uncomplete-uk_ua }
 lang-complete-uk_ua = у{ -lang-uncomplete-uk_ua }
-lang-complete-en-us-caps = А{ -lang-uncomplete-en-us }
-lang-complete-en-us = а{ -lang-uncomplete-en-us }
-lang-complete-pt-br-caps = Б{ -lang-uncomplete-pt-br }
-lang-complete-pt-br = б{ -lang-uncomplete-pt-br }
-lang-complete-es-mx-caps = М{ -lang-uncomplete-es-mx }
-lang-complete-es-mx = м{ -lang-uncomplete-es-mx }
+lang-complete-en-US-caps = А{ -lang-uncomplete-en-US }
+lang-complete-en-US = а{ -lang-uncomplete-en-US }
+lang-complete-pt-BR-caps = Б{ -lang-uncomplete-pt-BR }
+lang-complete-pt-BR = б{ -lang-uncomplete-pt-BR }
+lang-complete-es-MX-caps = М{ -lang-uncomplete-es-MX }
+lang-complete-es-MX = м{ -lang-uncomplete-es-MX }
 
 # Рядок done з'являється в текстовій кнопці в правому нижньому куті меню вибору мови та 
 # символізує завершення вибору мови. При натисканні на неї гравець переходить на заставку SGT.
