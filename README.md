@@ -51,17 +51,17 @@ Please, before using the project, familiarize yourself with the following materi
 
 ## Authors
 
-* **Rushan "Deflecta" Mukhutdinov**: copyright holder, developer, writer, artist since version 2.0, creator of some characters
-* **Pavel "P4shtet" Shakhmatov**: creator, developer until version 2.0, artist, photographer, creator of most characters
-* **Gleb "GKProduction" Kapustin**: help with development and assets, Russian voice actor for Genndy, support
-* **Yuri "Zodli" Grachyov**: American English voice actor
-* **Andriana Mantidfly**: tester, creator of some characters
-* **Yaroslav "Sallo666" Sipyagin**: tester
-* **Gleb Glebov**: tester, support until version 2.0
-* **Max "KickDemonAss" Syrkov**: tester
-* **Matvey "Barsik" Lebedev**: support
-* **Other Games Production**: support
-* **Smart Games Team**: support
+* **Rushan "Deflecta" Mukhutdinov:** copyright holder, developer, writer, artist since version 2.0, creator of some characters
+* **Pavel "P4shtet" Shakhmatov:** creator, developer until version 2.0, artist, photographer, creator of most characters
+* **Gleb "GKProduction" Kapustin:** help with development and assets, Russian voice actor for Genndy, support
+* **Yuri "Zodli" Grachyov:** American English voice actor
+* **Andriana Mantidfly:** tester, creator of some characters
+* **Yaroslav "Sallo666" Sipyagin:** tester
+* **Gleb Glebov:** tester, support until version 2.0
+* **Max "KickDemonAss" Syrkov:** tester
+* **Matvey "Barsik" Lebedev:** support
+* **Other Games Production:** support
+* **Smart Games Team:** support
 
 Thanks to everyone who donated!
 

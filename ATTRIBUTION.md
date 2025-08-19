@@ -2,13 +2,13 @@ This document is available in the following languages: [Russian (ru-RU)](/docs/A
 
 # Attribution Examples
 
-> **Important**: This document supplements the [project license](/LICENSE.md), section "1. Authorship and Attribution". Proper attribution is a mandatory requirement when using any parts of the project.
+> **Important:** This document supplements the [project license](/LICENSE.md), section "1. Authorship and Attribution". Proper attribution is a mandatory requirement when using any parts of the project.
 
 If you use any part of the code or assets from the "Five Nights with Barsik" repository, please attribute the authorship.
 
 Listed below are examples of attribution statements for using parts of the project, which you can include in your projects that use elements from "Five Nights with Barsik."
 
-| When using | Example |
+| Case | Example |
 | --- | --- |
 | Assets | This project was developed using assets from the video game "Five Nights with Barsik" by Deflecta |
 | Assets | This project was developed using assets from the video game "Five Nights with Barsik" by Rushan "Deflecta" Mukhutdinov |
