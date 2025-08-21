@@ -45,9 +45,9 @@ If you plan to open the game's source file, install these extensions. Otherwise,
 Please, before using the project, familiarize yourself with the following materials:
 
 * [📜 License](/LICENSE.md) - the legal basis for using the project
-* [👤 Attribution samples](/ATTRIBUTION.md) - how to properly credit authorship when using the project
 * [⚒️ Terms of use](/TERMS_OF_USE.md) - rules for applying the project in various scenarios
 * [🤝 Contribution guidelines](/CONTRIBUTING.md) - rules for contributors and collaboration
+* [👤 Attribution samples](/ATTRIBUTION.md) - how to properly credit authorship when using the project
 
 ## Authors
 
