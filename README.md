@@ -16,7 +16,7 @@ You are Antonio. One night, you notice unknown stray cats and robotic toys in yo
 * [📖 Documentation](/docs/)
 * [🌐 Localizations](/langs/)
 * [📋 Changelogs](/changelogs/)
-* [📚 Wiki archive](/wiki/)
+* [📚 Wiki](/wiki/)
 
 ## About the Source Code
 
@@ -54,10 +54,12 @@ Please, before using the project, familiarize yourself with the following materi
 * **Rushan "Deflecta" Mukhutdinov:** copyright holder, developer, writer, artist since version 2.0, creator of some characters
 * **Pavel "P4shtet" Shakhmatov:** creator, developer until version 2.0, artist, photographer, creator of most characters
 * **Gleb "GKProduction" Kapustin:** help with development and assets, Russian voice actor for Genndy, support
+* **UnknownKofe**: composer since version 2.4
 * **Yuri "Zodli" Grachyov:** American English voice actor
 * **Andriana Mantidfly:** tester, creator of some characters
-* **Yaroslav "Sallo666" Sipyagin:** tester
+* **Yaroslav "Sallo666" Sipyagin:** tester, design consultant
 * **Gleb Glebov:** tester, support until version 2.0
+* **undevelopable:** tester
 * **Max "KickDemonAss" Syrkov:** tester
 * **Matvey "Barsik" Lebedev:** support
 * **Other Games Production:** support
