@@ -72,6 +72,8 @@ codes = Códigos
 settings = Configuración
 about = Acerca de
 exit = Salir del Juego
+its-me = SOY YO
+halloween = ¡Feliz Halloween!
 
 ## Advertencia
 
@@ -105,6 +107,95 @@ antonio-to-psyco-7-halloween = Oh... Eso... Fue por miedo, normalmente estoy sol
 
 psyco-message = Hola de nuevo. Me reuniré con usted solo después de las pruebas nocturnas. Necesitamos entender exactamente qué está sucediendo en su casa. ¿Cuál es su tarea, pregunta? Es simple: hemos instalado cámaras por toda su casa, y usted debe vigilar si alguien aparece en ellas. También estaremos monitoreando las cámaras. Desafortunadamente, algunas de las cámaras podrían no funcionar. Y sí... ¿Recuerda esa máscara? Úsela solo en situaciones de emergencia. Por ejemplo, cuando uno de ellos entre a su habitación. Pero tenga en cuenta: no es seguro usarla durante períodos prolongados. Puede contener toxinas que quedaron del caso anterior... Permítame recordarle sus propias palabras: sus enemigos son juguetes y gatos. ¡Buena suerte!
 
+## Pantalla de nivel
+
+night-1 = Primera Noche
+night-2 = Segunda Noche
+night-3 = Tercera Noche
+night-4 = Cuarta Noche
+night-5 = Quinta Noche
+night-6 = Sexta Noche
+night-7 = Séptima Noche
+time-21-00 = 21:00
+time-21-30 = 21:30
+time-22-00 = 22:00
+time-22-30 = 22:30
+time-23-00 = 23:00
+time-23-30 = 23:30
+time-00-00 = 00:00
+time-00-30 = 00:30
+time-01-00 = 01:00
+time-01-30 = 01:30
+time-02-00 = 02:00
+time-02-30 = 02:30
+time-03-00 = 03:00
+time-03-30 = 03:30
+time-04-00 = 04:00
+
+## Juego
+
+call-1-1 = ¿Hola? ¿Antonio?
+call-1-1-answer = Sí, soy yo
+call-1-2 = ¡Hola, Antonio! Soy yo, Djenndy. Te llamé, tal como prometí. Me informaron sobre algún objeto sospechoso en tu... *interrupción* Espera, tenemos problemas con la conexión, espera un momento... *interrupciones* e.. pera... sp... ué..vir.. Parece que no podremos hablar adecuadamente. Qué lástima. Continuemos mañana. Si algo te sucede, iremos por ti, estamos disponibles las 24 horas. En fin, buena suerte y... adiós.
+call-2 = Hola, soy Djenndy. Lamento mucho no haber podido hablar bien contigo ayer. Algo estaba mal con la conexión, pero no nos detengamos en eso. Así que esto es lo que pasó ayer: Notamos un robot en tu casa que parece un oso de peluche común, así que ten cuidado y rastréalo a través de la tableta. Como ya habrás notado, la tableta no es la mejor, no podíamos permitirnos algo mejor, y no hemos tenido casos como el tuyo antes. Dicen que hay un taller donde fabrican robots, algún tipo de robots inteligentes... No lo creía antes, pero ahora... ¿Tal vez deberíamos visitarlos realmente para averiguar si algún robot parecido a un juguete escapó de ellos? Ugh... En fin, no te desanimes, ¡resolveremos todo esto! Adiós.
+call-3 = ¡Hola, soy Djenndy! Bueno, ¡felicidades, lo estás haciendo muy bien! Desafortunadamente, tendrás que quedarte así por unas noches más, es necesario para el caso. Esta vez no te retendré mucho, ya que yo mismo también necesito apresurarme. Aún no hemos encontrado nada significativo en tu casa, nada que pudiera atraer a estos animales y robots. No entiendo el motivo de estas criaturas, ¿quizás algún tipo de venganza? ¿Qué piensas? Bueno, dije que no te retendría, así que adiós. Te deseo suerte.
+call-4 = Hola, soy Djenndy de nuevo. Hay malas noticias. ¿Has visto al gato al que la cámara seis está mirando actualmente? Resulta que puede reconocerte como humano, incluso si llevas máscara. Creo que necesitas tratarla de manera diferente, porque no tiene prisa por llegar a ti. Para ser honesto, tiene el carácter de un gato normal. Cuando intentamos acercarnos a ella, ¡simplemente huyó! Tal vez estarás a salvo si te pones la máscara, en mi opinión ella no es un enemigo tan peligroso para ti. En cualquier caso, podemos enviarte apoyo si algo sale mal. Continuaremos nuestra conversación mañana.
+call-5 = Hola, eh.. *interrupción* ..llamando para decirte que *interrupción* ¡¿Qué está pasando?! *interrupción* Bueno, está bien, adiós. Bue.. *interrupción* suerte.
+call-6 = Hola, soy Djenndy. Me disculpo por los problemas de conexión de ayer. En verdad, lamento mucho que no pudiéramos prevenir este incidente... Está bien... Y... Me dijeron que hay algún gato amarillo, ¿puedes imaginarlo? Yo tampoco, por eso les dije a quienes revisan las cámaras que podrían estar viendo cosas. Después de todo, hasta ahora y actualmente en tu casa solo está este gato y esa gata, y... este oso y perro. En un día, los eliminaremos a todos y podrás dormir tranquilamente. Pero no podré estar presente porque tengo asuntos personales en casa. Así que... buenas noches para ti. Adiós.
+
+## Códigos
+
+enter-code = Ingrese código
+confirm = Confirmar
+back = Volver al menú principal
+
+## Configuración
+
+settings-title = CONFIGURACIÓN
+
+# Sección "Gráficos" de la configuración
+
+graphics = Gráficos
+
+mode-window = Modo de ventana
+mode-display = Modo de pantalla
+lang-text = Idioma del texto
+lang-speech = Idioma del habla
+vsync = Sincronización vertical
+time-format = Formato de 12 horas
+subtitles-speech = Subtítulos de habla
+subtitles-sounds = Subtítulos de sonidos
+discord = Estado en Discord
+
+# Sección "Jugabilidad" de la configuración
+
+gamejolt = Autorización en Game Jolt
+
+# Sección "Legado" de la configuración
+
+legacy = Legado
+
+sgt-intro = Intro SGT
+ogp-intro = Intro OGP
+fazcat-intro = Intro Fazcat Games
+old-langs = Localización antigua
+old-audio = Audio antiguo
+old-cutscenes = Escenas antiguas
+old-ui = Interfaz antigua
+old-ai = Comportamiento antiguo de personajes
+old-nights = Antiguo número de noches
+old-minigames = Mini-juegos antiguos
+extras = Menú de extras
+
+copyright-notice = Algunos contenidos no pueden ser restaurados porque violan los derechos de autor.
+
+# Sección "Peligroso" de la configuración
+
+danger = Peligroso
+
+debug-mode = Modo de depuración
+erase = Borrar guardados
+
 ## Pantalla de Inicio SGT
 
 sgt = Smart Games Team presenta
@@ -112,3 +203,15 @@ sgt = Smart Games Team presenta
 ## Pantalla de Inicio OGP
 
 ogp = Other Games Production presenta
+
+# Fin de la quinta noche
+
+end-report = La casa de Antonio fue incendiada por razones desconocidas. El propio Antonio ha desaparecido. Estamos partiendo para encontrarlo...
+
+results = Resultados
+
+result-1 = 1
+result-2 = 2
+result-3 = 3
+result-4 = 4
+result-5 = 5
