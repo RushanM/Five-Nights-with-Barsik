@@ -154,13 +154,19 @@ back = Вернуться в главное меню
 
 graphics = Графика
 
-vsync = Вертикальная синхронизация
+mode-window = Режим окна
+mode-display = Режим отображения
 lang-text = Язык текста
 lang-speech = Язык речи
-time-format = Формат времени
-discord = Статус в Discord
+vsync = Вертикальная синхронизация
+time-format = 12-часовой формат времени
 subtitles-speech = Субтитры речи
 subtitles-sounds = Субтитры звуков
+discord = Статус в Discord
+
+# Раздел настроек «Игровой процесс»
+
+gamejolt = Авторизация в Game Jolt
 
 # Раздел настроек «Устаревшее»
 
