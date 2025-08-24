@@ -67,8 +67,6 @@ Please, before using the project, familiarize yourself with the following materi
 
 Thanks to everyone who donated!
 
----
-
 ## External Links
 
 * [Game on GameJolt](https://gamejolt.com/games/fnwb/653514)
