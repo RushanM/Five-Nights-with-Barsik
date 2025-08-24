@@ -15,7 +15,7 @@ You are Antonio. One night, you notice unknown stray cats and robotic toys in yo
 * [👾 Sprites](/sprites/)
 * [📖 Documentation](/docs/)
 * [🌐 Localizations](/langs/)
-* [📋 Changelogs](/changelogs/)
+* [📋 Changelog](/docs/CHANGELOG_ru-RU.md)
 * [📚 Wiki](/wiki/)
 
 ## About the Source Code
