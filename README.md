@@ -1,7 +1,7 @@
 This document is available in the following languages: [Russian (ru-RU)](/docs/README_ru-RU.md), **American English (en-US)**, [Ukrainian (uk-UA)](/docs/README_uk-UA.md).
 
 <p align="center">
-  <img src="./sprites/repo_icon.png" alt="Repository icon with the text “Five nights with Barsik”" width="200" />
+  <img src="./sprites/2_en_us/repo_icon.png" alt="Repository icon with the text “Five nights with Barsik”" width="200" />
 </p>
 
 This repository contains parts of the source code of the video game "Five Nights with Barsik", its changelogs, documentation, localization files, and other assets for free use (within the terms of the licenses) on wikis, video thumbnails, in fan games, for creating your own modifications (forks) of the game, and other places.
