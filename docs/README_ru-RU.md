@@ -100,6 +100,8 @@
 
 * [игра в Game Jolt](https://gamejolt.com/games/fnwb/653514),
 * [вики игры](https://five-nights-with-barsik.fandom.com/ru/wiki/Вики_серий_«Одна_ночь_с_Котей»_и_«Пять_ночей_с_Барсиком»),
+* [канал в Telegram](t.me/onwkfnwb),
+* [группа в Telegram](t.me/fnwbonwk),
 * [сообщество игры ВКонтакте](https://vk.com/fivenightswithbarsik),
 * [игра в «Трешбоксе»](https://trashbox.ru/link/pyat-nochej-u-barsika-android),
 * [игра в Google Play](https://play.google.com/store/apps/details?id=ru.deflecta.fnwb) (пока что скрыта).
