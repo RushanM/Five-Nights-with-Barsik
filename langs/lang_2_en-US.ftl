@@ -77,11 +77,11 @@ halloween = Happy Halloween!
 
 disclaimer = This game contains potentially frightening jump scares, sudden loud noises, and flashing lights.
 
-## Antonio's Call to Psyco
+## Antonio's Call to PsyCo
 
-# "Antonio's Call to Psyco" is the first cutscene in the game, shown after clicking the "Start Game" button.
-# It tells the player that strangers have entered the main character's house, and he calls Psyco for help.
-# After this cutscene, the player is shown a message from Psyco.
+# "Antonio's Call to PsyCo" is the first cutscene in the game, shown after clicking the "Start Game" button.
+# It tells the player that strangers have entered the main character's house, and he calls PsyCo for help.
+# After this cutscene, the player is shown a message from PsyCo.
 # The cutscene has an alternative version that activates during the in-game Halloween event.
 # During Halloween, the game becomes spookier to match the holiday theme, and the dialogues reflect this darker tone.
 
@@ -101,7 +101,7 @@ antonio-to-psyco-5-halloween = You think I'm crazy?...
 antonio-to-psyco-6-halloween = — Of course "not," Mr. Antonio! Maybe just a little, since you blurted out your address at the start of our conversation.
 antonio-to-psyco-7-halloween = Oh... That... That was out of fear, I'm usually alone at home and no one else...
 
-## Psyco's Message
+## PsyCo's Message
 
 psyco-message = Hello again. I'll meet with you only after the night trials. We need to understand exactly what's happening in your house. What's your task, you ask? It's simple: we've installed cameras throughout your house, and you need to watch if anyone appears on them. We'll also be monitoring the cameras. Unfortunately, some of the cameras might not work. And yes... Remember that mask? Wear it only in emergency situations. For example, when one of them enters your room. But keep in mind: it's not safe to wear it for long periods. It may contain toxins left from the previous case... Let me remind you of your own words: your enemies are toys and cats. Good luck!
 
