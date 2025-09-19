@@ -1,0 +1,1 @@
+monogato_badge=Monokater

@@ -62,6 +62,8 @@ lang-complete-es-MX = e{ -lang-uncomplete-es-MX }
 # e significa a conclusão da seleção de idioma. Ao clicar nele, o jogador é levado à tela inicial SGT.
 done = Concluído
 
+monogato_badge=Monogato
+
 ## Menu principal
 
 # Botões simples no menu. start-game inicia a campanha da história. codes leva ao menu de códigos.

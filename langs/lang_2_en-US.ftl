@@ -60,6 +60,8 @@ lang-complete-es-MX = M{ -lang-uncomplete-es-MX }
 # and signifies completion of language selection. Clicking it takes the player to the SGT splash screen.
 done = Done
 
+monogato_badge=Monocato
+
 ## Main menu
 
 # Simple buttons in the menu. start-game starts the story campaign. codes takes you to the codes menu.
@@ -208,8 +210,8 @@ end-report = Antonio's house was set on fire for unknown reasons. Antonio himsel
 
 results = Results
 
-result-1 = 1
-result-2 = 2
-result-3 = 3
-result-4 = 4
-result-5 = 5
+result-1 = F
+result-2 = D
+result-3 = C
+result-4 = B
+result-5 = A
