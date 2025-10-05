@@ -72,7 +72,7 @@
 
 ## Зовнішні посилання
 
-* [гра в Геймджолті](https://gamejolt.com/games/fnwb/653514),
+* [гра в Game Jolt](https://gamejolt.com/games/fnwb/653514),
 * [вікі гри](https://five-nights-with-barsik.fandom.com/ru/wiki/Вики_серий_«Одна_ночь_с_Котей»_и_«Пять_ночей_с_Барсиком»),
 * [спільнота гри ВКонтакті](https://vk.com/fivenightswithbarsik),
 * [гра в Трешбоксі](https://trashbox.ru/link/pyat-nochej-u-barsika-android),
