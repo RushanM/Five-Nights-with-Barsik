@@ -1,6 +1,6 @@
-# Цей файл розповсюджується за ліцензією MIT, що актуально на 2025 рік
-
 ### Україномовний файл локалізації «П'яти ночей з Барсіком»
+
+# Цей файл розповсюджується за ліцензією MIT, що актуально на 2025 рік
 
 # Рядки, що починаються з -lang-uncomplete, є так званими «термінами». Додавання рядків як термінів 
 # дозволяє повторно використовувати їх у кількох місцях локалізації одразу як змінні.
@@ -12,7 +12,7 @@
 # вирішує те, які мови гравець вибрав, а які ні.
 
 -lang-uncomplete-ru-RU = осійська
--lang-uncomplete-uk_ua = країнська
+-lang-uncomplete-uk-UA = країнська
 -lang-uncomplete-en-US = мериканська англійська
 -lang-uncomplete-pt-BR = разильська португальська
 -lang-uncomplete-es-MX = ексиканська іспанська
@@ -23,7 +23,7 @@
 lang-native = Українська
 
 # Рядок lang-code — це системний код мови для ідентифікації цього файлу
-lang-code = uk_ua
+lang-code = uk-UA
 
 # Меню вибору мови — це перше меню, яке зустрічає гравця в грі
 
@@ -51,8 +51,8 @@ selected = Вибрано
 
 lang-complete-ru-RU-caps = Р{ -lang-uncomplete-ru-RU }
 lang-complete-ru-RU = р{ -lang-uncomplete-ru-RU }
-lang-complete-uk_ua-caps = У{ -lang-uncomplete-uk_ua }
-lang-complete-uk_ua = у{ -lang-uncomplete-uk_ua }
+lang-complete-uk-UA-caps = У{ -lang-uncomplete-uk-UA }
+lang-complete-uk-UA = у{ -lang-uncomplete-uk-UA }
 lang-complete-en-US-caps = А{ -lang-uncomplete-en-US }
 lang-complete-en-US = а{ -lang-uncomplete-en-US }
 lang-complete-pt-BR-caps = Б{ -lang-uncomplete-pt-BR }
@@ -64,7 +64,7 @@ lang-complete-es-MX = м{ -lang-uncomplete-es-MX }
 # символізує завершення вибору мови. При натисканні на неї гравець переходить на заставку SGT.
 done = Готово
 
-monogato_badge=Монокіт
+monogato-badge = Монокіт
 
 ## Головне меню
 

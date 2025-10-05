@@ -1,6 +1,6 @@
-# This file is distributed under the MIT license, valid as of 2025
-
 ### English (US) localization file for "Five Nights with Barsik"
+
+# This file is distributed under the MIT license, valid as of 2025
 
 # Lines starting with -lang-uncomplete are "terms" (variables). 
 # Using terms allows reusing strings in multiple places across the localization.
@@ -11,7 +11,7 @@
 # with different case depending on whether the player has selected that language or not
 
 -lang-uncomplete-ru-RU = ussian
--lang-uncomplete-uk_ua = krainian
+-lang-uncomplete-uk-UA = krainian
 -lang-uncomplete-en-US = merican English
 -lang-uncomplete-pt-BR = razilian Portuguese
 -lang-uncomplete-es-MX = exican Spanish
@@ -47,8 +47,8 @@ selected = Selected
 # In English, language names are always capitalized regardless of selection status.
 lang-complete-ru-RU-caps = R{ -lang-uncomplete-ru-RU }
 lang-complete-ru-RU = R{ -lang-uncomplete-ru-RU }
-lang-complete-uk_ua-caps = U{ -lang-uncomplete-uk_ua }
-lang-complete-uk_ua = U{ -lang-uncomplete-uk_ua }
+lang-complete-uk-UA-caps = U{ -lang-uncomplete-uk-UA }
+lang-complete-uk-UA = U{ -lang-uncomplete-uk-UA }
 lang-complete-en-US-caps = A{ -lang-uncomplete-en-US }
 lang-complete-en-US = A{ -lang-uncomplete-en-US }
 lang-complete-pt-BR-caps = B{ -lang-uncomplete-pt-BR }
@@ -60,7 +60,7 @@ lang-complete-es-MX = M{ -lang-uncomplete-es-MX }
 # and signifies completion of language selection. Clicking it takes the player to the SGT splash screen.
 done = Done
 
-monogato_badge=Monocato
+monogato-badge = Monogato
 
 ## Main menu
 

@@ -1,6 +1,6 @@
-# Este arquivo é distribuído sob a licença MIT, válida a partir de 2025
-
 ### Arquivo de localização em Português Brasileiro para "Cinco Noites com Barsik"
+
+# Este arquivo é distribuído sob a licença MIT, válida a partir de 2025
 
 # Linhas que começam com -lang-uncomplete são "termos" (variáveis).
 # Usar termos permite reutilizar strings em múltiplos lugares na localização.
@@ -11,7 +11,7 @@
 # com diferentes casos dependendo se o jogador selecionou aquele idioma ou não
 
 -lang-uncomplete-ru-RU = usso
--lang-uncomplete-uk_ua = craniano
+-lang-uncomplete-uk-UA = craniano
 -lang-uncomplete-en-US = nglês Americano
 -lang-uncomplete-pt-BR = ortuguês Brasileiro
 -lang-uncomplete-es-MX = spanhol Mexicano
@@ -49,8 +49,8 @@ selected = Selecionado
 
 lang-complete-ru-RU-caps = R{ -lang-uncomplete-ru-RU }
 lang-complete-ru-RU = r{ -lang-uncomplete-ru-RU }
-lang-complete-uk_ua-caps = U{ -lang-uncomplete-uk_ua }
-lang-complete-uk_ua = u{ -lang-uncomplete-uk_ua }
+lang-complete-uk-UA-caps = U{ -lang-uncomplete-uk-UA }
+lang-complete-uk-UA = u{ -lang-uncomplete-uk-UA }
 lang-complete-en-US-caps = I{ -lang-uncomplete-en-US }
 lang-complete-en-US = i{ -lang-uncomplete-en-US }
 lang-complete-pt-BR-caps = P{ -lang-uncomplete-pt-BR }
@@ -62,7 +62,7 @@ lang-complete-es-MX = e{ -lang-uncomplete-es-MX }
 # e significa a conclusão da seleção de idioma. Ao clicar nele, o jogador é levado à tela inicial SGT.
 done = Concluído
 
-monogato_badge=Monogato
+monogato-badge = Monogato
 
 ## Menu principal
 
