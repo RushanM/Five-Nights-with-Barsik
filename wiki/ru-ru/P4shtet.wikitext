@@ -34,7 +34,7 @@
 * [[Пять ночей с Барсиком — 2]];
 * [[Пять ночей с Барсиком — 3]];
 * [[Пять ночей с Барсиком]];
-* [[Тайны ПНСБ]];
+* [[Тайны ПНсБ]];
 * Having Bad Time with Flowey;
 * One Night at Foxy’s;
 * Вожак.ЭКСЕ;
@@ -88,7 +88,7 @@
 * 26 апреля в 12:34 Павел создал страницу в [[Геймджолт]]е, которая на данный момент заброшена.
 * 27 апреля в 17:32 Павел объявил, что так как у него лишь демоверсия Clickteam Fusion 2.5, а не полная версия, он не может продолжать разработку игры, и попросил подписчиков отправить ему полную версию.
 * 28 апреля тестировщик игры [[MaksFred]] создал учётную запись в [[Икс]]е и в 10:57 Павел поделился с подписчиками [https://x.com/MaksSchmidt228 ссылкой] на неё, чтобы поддержать своего тестировщика.
-* 28 апреля в 11:27 Павел опубликовал первый тизер [[Пять ночей с Барсиком|ПНСБ]].
+* 28 апреля в 11:27 Павел опубликовал первый тизер [[Пять ночей с Барсиком|ПНсБ]].
 <gallery>
 youcantbeathe 28 апр 2015 11 27.png|''«Пока-что играет разрабатывается  я кину вам тизер»''
 </gallery>
@@ -107,17 +107,17 @@ themwillbecankill 29 апр 2015 17 06.png|''«Новый тизер FNAB»''
 <div class="mw-collapsible-content">
 * 10 мая в 9:56 Павел объявил, что улучшил главное меню игры и добавил в него [[wikipedia:ru:Пасхальное яйцо (виртуальное)|пасхальные яйца]].
 * 18 мая в 12:07 Павел поделился с подписчиками снимком игрового процесса.
-* 24 мая Павел создал страницу ПНСБ в [[Геймджолт]]е (https://gamejolt.com/games/five-nights-at-barsik-s/62886) со следующим описанием:
+* 24 мая Павел создал страницу ПНсБ в [[Геймджолт]]е (https://gamejolt.com/games/five-nights-at-barsik-s/62886) со следующим описанием:
 {{Структурированная цитата
 |Текст     = Welcome to your good old house! you already lived in it for 5 years after 1 year you notice in the house 2 animals and 2 toys You notice that they all want to kill you and you go to a psychologist and His team have put surveillance cameras and gave the mask Freddy fazbear! And they send you on a week to survive until 6 A.m..<br>Windows 7/XP/8/8.1<br>Phone Guy:Zodli<br>Creactor:Pavel Shamatov<br>Testers:Masikm Pidenko,Gleb Merlinski<br>#FNAF #FNAF_Parodies #FNAB<br>#strategy
 |Сказавший = Павел
-|Источник  = описание страницы [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+|Источник  = описание страницы [[Пять ночей с Барсиком|ПНсБ]] в [[Геймджолт|Геймджолте]]
 }}
 * В тот же день он написал новость в журнале разработчика страницы о выпуске альфа-версии:
 {{Структурированная цитата
 |Текст     = Alpha TEST! -LINK HERE!-<br>Alpha testcame outThat there is: -One Night-One Enemy-KillEaster eggs. In one wordfun<br>Sorry not to defend ourselves,to Defend ourselves we will be in the Beta version<br>LINK-https://yadi.sk/d/IsmfXEL8gq3bJ
 |Сказавший = Павел
-|Источник  = новость в журнале разработчика страницы [[Пять ночей с Барсиком|ПНСБ]] в [[Геймджолт|Геймджолте]]
+|Источник  = новость в журнале разработчика страницы [[Пять ночей с Барсиком|ПНсБ]] в [[Геймджолт|Геймджолте]]
 }}
 </div></div>
 <div class="mw-collapsible mw-collapsed" data-expandtext="Открыть" data-collapsetext="Закрыть" style="width:100%;">
