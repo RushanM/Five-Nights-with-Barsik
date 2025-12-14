@@ -62,7 +62,7 @@
 
 В: Где можно денежно поддержать проект?
 
-О: Boosty: https://boosty.to/rushanm; VK Donut: https://vk.com/deflcomm?w=donut_payment-71906125&levelId=106; Donation Alerts: https://www.donationalerts.com/r/deflecta; ЮMoney: https://yoomoney.ru/to/410015215253910.
+О: Boosty: https://boosty.to/rushanm; VK Donut: https://vk.com/deflcomm?w=donut_payment-71906125&levelId=106; Donation Alerts: https://www.donationalerts.com/r/deflecat; ЮMoney: https://yoomoney.ru/to/410015215253910.
 
 ---
 

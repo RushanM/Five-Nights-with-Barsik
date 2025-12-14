@@ -1,7 +1,7 @@
 This document is available in the following languages: [Russian (ru-RU)](/docs/README_ru-RU.md), **American English (en-US)**, [Ukrainian (uk-UA)](/docs/README_uk-UA.md).
 
 <p align="center">
-  <img src="./sprites/icons/en-US/repo_icon.png" alt="Repository icon with the text “Five nights with Barsik”" width="200" />
+  <img src="./assets/sprites/icons/en-US/repo_icon.png" alt="Repository icon with the text “Five Nights with Barsik”" width="200" />
 </p>
 
 This repository contains parts of the source code of the video game "Five Nights with Barsik", its changelogs, documentation, localization files, and other assets for free use (within the terms of the licenses) on wikis, video thumbnails, in fan games, for creating your own modifications (forks) of the game, and other places.
@@ -12,9 +12,9 @@ You are Antonio. One night, you notice unknown stray cats and robotic toys in yo
 
 ## Repository Contents
 
-* [👾 Sprites](/sprites/)
+* [👾 Sprites](/assets/sprites/)
 * [📖 Documentation](/docs/)
-* [🌐 Localizations](/langs/)
+* [🌐 Localizations](/assets/l10n/)
 * [📋 Changelog](/docs/CHANGELOG_ru-RU.md)
 * [📚 Wiki](/wiki/)
 
